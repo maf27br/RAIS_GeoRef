@@ -1,0 +1,646 @@
+"code_muni"|"name_muni"|"QTD"
+"1"|3500105|"Adamantina"|0
+"2"|3500204|"Adolfo"|0
+"3"|3500303|"Aguaí"|0
+"4"|3500402|"Águas Da Prata"|0
+"5"|3500501|"Águas De Lindóia"|0
+"6"|3500550|"Águas De Santa Bárbara"|0
+"7"|3500600|"Águas De São Pedro"|0
+"8"|3500709|"Agudos"|0
+"9"|3500758|"Alambari"|0
+"10"|3500808|"Alfredo Marcondes"|0
+"11"|3500907|"Altair"|0
+"12"|3501004|"Altinópolis"|0
+"13"|3501103|"Alto Alegre"|0
+"14"|3501152|"Alumínio"|0
+"15"|3501202|"Álvares Florence"|0
+"16"|3501301|"Álvares Machado"|1
+"17"|3501400|"Álvaro De Carvalho"|0
+"18"|3501509|"Alvinlândia"|0
+"19"|3501608|"Americana"|3
+"20"|3501707|"Américo Brasiliense"|0
+"21"|3501806|"Américo De Campos"|0
+"22"|3501905|"Amparo"|0
+"23"|3502002|"Analândia"|0
+"24"|3502101|"Andradina"|0
+"25"|3502200|"Angatuba"|0
+"26"|3502309|"Anhembi"|0
+"27"|3502408|"Anhumas"|0
+"28"|3502507|"Aparecida"|0
+"29"|3502606|"Aparecida D'oeste"|0
+"30"|3502705|"Apiaí"|0
+"31"|3502754|"Araçariguama"|0
+"32"|3502804|"Araçatuba"|2
+"33"|3502903|"Araçoiaba Da Serra"|0
+"34"|3503000|"Aramina"|0
+"35"|3503109|"Arandu"|0
+"36"|3503158|"Arapeí"|0
+"37"|3503208|"Araraquara"|5
+"38"|3503307|"Araras"|8
+"39"|3503356|"Arco-Íris"|0
+"40"|3503406|"Arealva"|1
+"41"|3503505|"Areias"|0
+"42"|3503604|"Areiópolis"|0
+"43"|3503703|"Ariranha"|0
+"44"|3503802|"Artur Nogueira"|0
+"45"|3503901|"Arujá"|0
+"46"|3503950|"Aspásia"|0
+"47"|3504008|"Assis"|0
+"48"|3504107|"Atibaia"|4
+"49"|3504206|"Auriflama"|1
+"50"|3504305|"Avaí"|0
+"51"|3504404|"Avanhandava"|0
+"52"|3504503|"Avaré"|0
+"53"|3504602|"Bady Bassitt"|0
+"54"|3504701|"Balbinos"|0
+"55"|3504800|"Bálsamo"|0
+"56"|3504909|"Bananal"|0
+"57"|3505005|"Barão De Antonina"|0
+"58"|3505104|"Barbosa"|0
+"59"|3505203|"Bariri"|0
+"60"|3505302|"Barra Bonita"|1
+"61"|3505351|"Barra Do Chapéu"|0
+"62"|3505401|"Barra Do Turvo"|0
+"63"|3505500|"Barretos"|0
+"64"|3505609|"Barrinha"|0
+"65"|3505708|"Barueri"|3
+"66"|3505807|"Bastos"|0
+"67"|3505906|"Batatais"|1
+"68"|3506003|"Bauru"|5
+"69"|3506102|"Bebedouro"|1
+"70"|3506201|"Bento De Abreu"|0
+"71"|3506300|"Bernardino De Campos"|0
+"72"|3506359|"Bertioga"|0
+"73"|3506409|"Bilac"|0
+"74"|3506508|"Birigui"|6
+"75"|3506607|"Biritiba Mirim"|0
+"76"|3506706|"Boa Esperança Do Sul"|0
+"77"|3506805|"Bocaina"|0
+"78"|3506904|"Bofete"|0
+"79"|3507001|"Boituva"|6
+"80"|3507100|"Bom Jesus Dos Perdões"|0
+"81"|3507159|"Bom Sucesso De Itararé"|0
+"82"|3507209|"Borá"|0
+"83"|3507308|"Boracéia"|0
+"84"|3507407|"Borborema"|0
+"85"|3507456|"Borebi"|0
+"86"|3507506|"Botucatu"|6
+"87"|3507605|"Bragança Paulista"|2
+"88"|3507704|"Braúna"|0
+"89"|3507753|"Brejo Alegre"|0
+"90"|3507803|"Brodowski"|0
+"91"|3507902|"Brotas"|0
+"92"|3508009|"Buri"|0
+"93"|3508108|"Buritama"|0
+"94"|3508207|"Buritizal"|0
+"95"|3508306|"Cabrália Paulista"|0
+"96"|3508405|"Cabreúva"|3
+"97"|3508504|"Caçapava"|5
+"98"|3508603|"Cachoeira Paulista"|0
+"99"|3508702|"Caconde"|0
+"100"|3508801|"Cafelândia"|0
+"101"|3508900|"Caiabu"|0
+"102"|3509007|"Caieiras"|0
+"103"|3509106|"Caiuá"|0
+"104"|3509205|"Cajamar"|1
+"105"|3509254|"Cajati"|1
+"106"|3509304|"Cajobi"|0
+"107"|3509403|"Cajuru"|0
+"108"|3509452|"Campina Do Monte Alegre"|1
+"109"|3509502|"Campinas"|13
+"110"|3509601|"Campo Limpo Paulista"|0
+"111"|3509700|"Campos Do Jordão"|0
+"112"|3509809|"Campos Novos Paulista"|0
+"113"|3509908|"Cananéia"|0
+"114"|3509957|"Canas"|0
+"115"|3510005|"Cândido Mota"|0
+"116"|3510104|"Cândido Rodrigues"|0
+"117"|3510153|"Canitar"|0
+"118"|3510203|"Capão Bonito"|0
+"119"|3510302|"Capela Do Alto"|0
+"120"|3510401|"Capivari"|2
+"121"|3510500|"Caraguatatuba"|0
+"122"|3510609|"Carapicuíba"|4
+"123"|3510708|"Cardoso"|0
+"124"|3510807|"Casa Branca"|0
+"125"|3510906|"Cássia Dos Coqueiros"|0
+"126"|3511003|"Castilho"|0
+"127"|3511102|"Catanduva"|0
+"128"|3511201|"Catiguá"|0
+"129"|3511300|"Cedral"|0
+"130"|3511409|"Cerqueira César"|0
+"131"|3511508|"Cerquilho"|0
+"132"|3511607|"Cesário Lange"|1
+"133"|3511706|"Charqueada"|0
+"134"|3511904|"Clementina"|0
+"135"|3512001|"Colina"|0
+"136"|3512100|"Colômbia"|0
+"137"|3512209|"Conchal"|0
+"138"|3512308|"Conchas"|0
+"139"|3512407|"Cordeirópolis"|0
+"140"|3512506|"Coroados"|0
+"141"|3512605|"Coronel Macedo"|0
+"142"|3512704|"Corumbataí"|0
+"143"|3512803|"Cosmópolis"|0
+"144"|3512902|"Cosmorama"|0
+"145"|3513009|"Cotia"|1
+"146"|3513108|"Cravinhos"|0
+"147"|3513207|"Cristais Paulista"|0
+"148"|3513306|"Cruzália"|0
+"149"|3513405|"Cruzeiro"|3
+"150"|3513504|"Cubatão"|1
+"151"|3513603|"Cunha"|0
+"152"|3513702|"Descalvado"|0
+"153"|3513801|"Diadema"|4
+"154"|3513850|"Dirce Reis"|0
+"155"|3513900|"Divinolândia"|0
+"156"|3514007|"Dobrada"|0
+"157"|3514106|"Dois Córregos"|0
+"158"|3514205|"Dolcinópolis"|0
+"159"|3514304|"Dourado"|0
+"160"|3514403|"Dracena"|0
+"161"|3514502|"Duartina"|0
+"162"|3514601|"Dumont"|0
+"163"|3514700|"Echaporã"|0
+"164"|3514809|"Eldorado"|0
+"165"|3514908|"Elias Fausto"|0
+"166"|3514924|"Elisiário"|0
+"167"|3514957|"Embaúba"|0
+"168"|3515004|"Embu Das Artes"|6
+"169"|3515103|"Embu-Guaçu"|0
+"170"|3515129|"Emilianópolis"|0
+"171"|3515152|"Engenheiro Coelho"|0
+"172"|3515186|"Espírito Santo Do Pinhal"|1
+"173"|3515194|"Espírito Santo Do Turvo"|0
+"174"|3515202|"Estrela D'oeste"|0
+"175"|3515301|"Estrela Do Norte"|0
+"176"|3515350|"Euclides Da Cunha Paulista"|0
+"177"|3515400|"Fartura"|0
+"178"|3515509|"Fernandópolis"|0
+"179"|3515608|"Fernando Prestes"|0
+"180"|3515657|"Fernão"|0
+"181"|3515707|"Ferraz De Vasconcelos"|9
+"182"|3515806|"Flora Rica"|0
+"183"|3515905|"Floreal"|0
+"184"|3516002|"Flórida Paulista"|0
+"185"|3516101|"Florínea"|0
+"186"|3516200|"Franca"|4
+"187"|3516309|"Francisco Morato"|0
+"188"|3516408|"Franco Da Rocha"|0
+"189"|3516507|"Gabriel Monteiro"|0
+"190"|3516606|"Gália"|0
+"191"|3516705|"Garça"|0
+"192"|3516804|"Gastão Vidigal"|0
+"193"|3516853|"Gavião Peixoto"|1
+"194"|3516903|"General Salgado"|0
+"195"|3517000|"Getulina"|0
+"196"|3517109|"Glicério"|0
+"197"|3517208|"Guaiçara"|0
+"198"|3517307|"Guaimbê"|0
+"199"|3517406|"Guaíra"|0
+"200"|3517505|"Guapiaçu"|0
+"201"|3517604|"Guapiara"|0
+"202"|3517703|"Guará"|0
+"203"|3517802|"Guaraçaí"|0
+"204"|3517901|"Guaraci"|0
+"205"|3518008|"Guarani D'oeste"|0
+"206"|3518107|"Guarantã"|0
+"207"|3518206|"Guararapes"|0
+"208"|3518305|"Guararema"|1
+"209"|3518404|"Guaratinguetá"|1
+"210"|3518503|"Guareí"|0
+"211"|3518602|"Guariba"|0
+"212"|3518701|"Guarujá"|10
+"213"|3518800|"Guarulhos"|21
+"214"|3518859|"Guatapará"|0
+"215"|3518909|"Guzolândia"|0
+"216"|3519006|"Herculândia"|0
+"217"|3519055|"Holambra"|1
+"218"|3519071|"Hortolândia"|7
+"219"|3519105|"Iacanga"|0
+"220"|3519204|"Iacri"|1
+"221"|3519253|"Iaras"|0
+"222"|3519303|"Ibaté"|0
+"223"|3519402|"Ibirá"|0
+"224"|3519501|"Ibirarema"|0
+"225"|3519600|"Ibitinga"|0
+"226"|3519709|"Ibiúna"|1
+"227"|3519808|"Icém"|0
+"228"|3519907|"Iepê"|0
+"229"|3520004|"Igaraçu Do Tietê"|1
+"230"|3520103|"Igarapava"|0
+"231"|3520202|"Igaratá"|0
+"232"|3520301|"Iguape"|0
+"233"|3520400|"Ilhabela"|0
+"234"|3520426|"Ilha Comprida"|0
+"235"|3520442|"Ilha Solteira"|0
+"236"|3520509|"Indaiatuba"|4
+"237"|3520608|"Indiana"|0
+"238"|3520707|"Indiaporã"|0
+"239"|3520806|"Inúbia Paulista"|0
+"240"|3520905|"Ipaussu"|0
+"241"|3521002|"Iperó"|0
+"242"|3521101|"Ipeúna"|1
+"243"|3521150|"Ipiguá"|0
+"244"|3521200|"Iporanga"|0
+"245"|3521309|"Ipuã"|0
+"246"|3521408|"Iracemápolis"|1
+"247"|3521507|"Irapuã"|0
+"248"|3521606|"Irapuru"|0
+"249"|3521705|"Itaberá"|0
+"250"|3521804|"Itaí"|0
+"251"|3521903|"Itajobi"|0
+"252"|3522000|"Itaju"|0
+"253"|3522109|"Itanhaém"|0
+"254"|3522158|"Itaoca"|0
+"255"|3522208|"Itapecerica Da Serra"|3
+"256"|3522307|"Itapetininga"|0
+"257"|3522406|"Itapeva"|0
+"258"|3522505|"Itapevi"|1
+"259"|3522604|"Itapira"|8
+"260"|3522653|"Itapirapuã Paulista"|0
+"261"|3522703|"Itápolis"|0
+"262"|3522802|"Itaporanga"|0
+"263"|3522901|"Itapuí"|0
+"264"|3523008|"Itapura"|0
+"265"|3523107|"Itaquaquecetuba"|1
+"266"|3523206|"Itararé"|0
+"267"|3523305|"Itariri"|0
+"268"|3523404|"Itatiba"|2
+"269"|3523503|"Itatinga"|0
+"270"|3523602|"Itirapina"|0
+"271"|3523701|"Itirapuã"|0
+"272"|3523800|"Itobi"|0
+"273"|3523909|"Itu"|1
+"274"|3524006|"Itupeva"|2
+"275"|3524105|"Ituverava"|0
+"276"|3524204|"Jaborandi"|0
+"277"|3524303|"Jaboticabal"|3
+"278"|3524402|"Jacareí"|2
+"279"|3524501|"Jaci"|0
+"280"|3524600|"Jacupiranga"|1
+"281"|3524709|"Jaguariúna"|2
+"282"|3524808|"Jales"|1
+"283"|3524907|"Jambeiro"|0
+"284"|3525003|"Jandira"|1
+"285"|3525102|"Jardinópolis"|0
+"286"|3525201|"Jarinu"|0
+"287"|3525300|"Jaú"|1
+"288"|3525409|"Jeriquara"|0
+"289"|3525508|"Joanópolis"|0
+"290"|3525607|"João Ramalho"|0
+"291"|3525706|"José Bonifácio"|0
+"292"|3525805|"Júlio Mesquita"|0
+"293"|3525854|"Jumirim"|0
+"294"|3525904|"Jundiaí"|4
+"295"|3526001|"Junqueirópolis"|0
+"296"|3526100|"Juquiá"|0
+"297"|3526209|"Juquitiba"|0
+"298"|3526308|"Lagoinha"|0
+"299"|3526407|"Laranjal Paulista"|0
+"300"|3526506|"Lavínia"|0
+"301"|3526605|"Lavrinhas"|0
+"302"|3526704|"Leme"|1
+"303"|3526803|"Lençóis Paulista"|0
+"304"|3526902|"Limeira"|14
+"305"|3527009|"Lindóia"|0
+"306"|3527108|"Lins"|0
+"307"|3527207|"Lorena"|0
+"308"|3527256|"Lourdes"|0
+"309"|3527306|"Louveira"|0
+"310"|3527405|"Lucélia"|0
+"311"|3527504|"Lucianópolis"|0
+"312"|3527603|"Luís Antônio"|0
+"313"|3527702|"Luiziânia"|0
+"314"|3527801|"Lupércio"|0
+"315"|3527900|"Lutécia"|0
+"316"|3528007|"Macatuba"|0
+"317"|3528106|"Macaubal"|0
+"318"|3528205|"Macedônia"|0
+"319"|3528304|"Magda"|0
+"320"|3528403|"Mairinque"|0
+"321"|3528502|"Mairiporã"|0
+"322"|3528601|"Manduri"|0
+"323"|3528700|"Marabá Paulista"|0
+"324"|3528809|"Maracaí"|0
+"325"|3528858|"Marapoama"|0
+"326"|3528908|"Mariápolis"|0
+"327"|3529005|"Marília"|1
+"328"|3529104|"Marinópolis"|0
+"329"|3529203|"Martinópolis"|0
+"330"|3529302|"Matão"|1
+"331"|3529401|"Mauá"|1
+"332"|3529500|"Mendonça"|0
+"333"|3529609|"Meridiano"|0
+"334"|3529658|"Mesópolis"|0
+"335"|3529708|"Miguelópolis"|0
+"336"|3529807|"Mineiros Do Tietê"|0
+"337"|3529906|"Miracatu"|0
+"338"|3530003|"Mira Estrela"|0
+"339"|3530102|"Mirandópolis"|0
+"340"|3530201|"Mirante Do Paranapanema"|0
+"341"|3530300|"Mirassol"|2
+"342"|3530409|"Mirassolândia"|0
+"343"|3530508|"Mococa"|1
+"344"|3530607|"Mogi Das Cruzes"|0
+"345"|3530706|"Mogi Guaçu"|5
+"346"|3530805|"Mogi Mirim"|3
+"347"|3530904|"Mombuca"|0
+"348"|3531001|"Monções"|0
+"349"|3531100|"Mongaguá"|0
+"350"|3531209|"Monte Alegre Do Sul"|0
+"351"|3531308|"Monte Alto"|6
+"352"|3531407|"Monte Aprazível"|0
+"353"|3531506|"Monte Azul Paulista"|1
+"354"|3531605|"Monte Castelo"|0
+"355"|3531704|"Monteiro Lobato"|0
+"356"|3531803|"Monte Mor"|0
+"357"|3531902|"Morro Agudo"|0
+"358"|3532009|"Morungaba"|0
+"359"|3532058|"Motuca"|0
+"360"|3532108|"Murutinga Do Sul"|0
+"361"|3532157|"Nantes"|0
+"362"|3532207|"Narandiba"|0
+"363"|3532306|"Natividade Da Serra"|0
+"364"|3532405|"Nazaré Paulista"|1
+"365"|3532504|"Neves Paulista"|0
+"366"|3532603|"Nhandeara"|0
+"367"|3532702|"Nipoã"|0
+"368"|3532801|"Nova Aliança"|0
+"369"|3532827|"Nova Campina"|0
+"370"|3532843|"Nova Canaã Paulista"|0
+"371"|3532868|"Nova Castilho"|0
+"372"|3532900|"Nova Europa"|0
+"373"|3533007|"Nova Granada"|1
+"374"|3533106|"Nova Guataporanga"|0
+"375"|3533205|"Nova Independência"|0
+"376"|3533254|"Novais"|0
+"377"|3533304|"Nova Luzitânia"|0
+"378"|3533403|"Nova Odessa"|0
+"379"|3533502|"Novo Horizonte"|0
+"380"|3533601|"Nuporanga"|0
+"381"|3533700|"Ocauçu"|0
+"382"|3533809|"Óleo"|0
+"383"|3533908|"Olímpia"|1
+"384"|3534005|"Onda Verde"|0
+"385"|3534104|"Oriente"|0
+"386"|3534203|"Orindiúva"|0
+"387"|3534302|"Orlândia"|1
+"388"|3534401|"Osasco"|4
+"389"|3534500|"Oscar Bressane"|0
+"390"|3534609|"Osvaldo Cruz"|0
+"391"|3534708|"Ourinhos"|0
+"392"|3534757|"Ouroeste"|0
+"393"|3534807|"Ouro Verde"|0
+"394"|3534906|"Pacaembu"|0
+"395"|3535002|"Palestina"|0
+"396"|3535101|"Palmares Paulista"|0
+"397"|3535200|"Palmeira D'oeste"|0
+"398"|3535309|"Palmital"|0
+"399"|3535408|"Panorama"|1
+"400"|3535507|"Paraguaçu Paulista"|0
+"401"|3535606|"Paraibuna"|0
+"402"|3535705|"Paraíso"|0
+"403"|3535804|"Paranapanema"|0
+"404"|3535903|"Paranapuã"|0
+"405"|3536000|"Parapuã"|0
+"406"|3536109|"Pardinho"|0
+"407"|3536208|"Pariquera-Açu"|1
+"408"|3536257|"Parisi"|0
+"409"|3536307|"Patrocínio Paulista"|0
+"410"|3536406|"Paulicéia"|0
+"411"|3536505|"Paulínia"|4
+"412"|3536570|"Paulistânia"|0
+"413"|3536604|"Paulo De Faria"|0
+"414"|3536703|"Pederneiras"|1
+"415"|3536802|"Pedra Bela"|0
+"416"|3536901|"Pedranópolis"|0
+"417"|3537008|"Pedregulho"|0
+"418"|3537107|"Pedreira"|0
+"419"|3537156|"Pedrinhas Paulista"|0
+"420"|3537206|"Pedro De Toledo"|0
+"421"|3537305|"Penápolis"|1
+"422"|3537404|"Pereira Barreto"|0
+"423"|3537503|"Pereiras"|0
+"424"|3537602|"Peruíbe"|0
+"425"|3537701|"Piacatu"|0
+"426"|3537800|"Piedade"|0
+"427"|3537909|"Pilar Do Sul"|0
+"428"|3538006|"Pindamonhangaba"|4
+"429"|3538105|"Pindorama"|0
+"430"|3538204|"Pinhalzinho"|0
+"431"|3538303|"Piquerobi"|0
+"432"|3538501|"Piquete"|0
+"433"|3538600|"Piracaia"|0
+"434"|3538709|"Piracicaba"|3
+"435"|3538808|"Piraju"|0
+"436"|3538907|"Pirajuí"|0
+"437"|3539004|"Pirangi"|0
+"438"|3539103|"Pirapora Do Bom Jesus"|0
+"439"|3539202|"Pirapozinho"|0
+"440"|3539301|"Pirassununga"|1
+"441"|3539400|"Piratininga"|0
+"442"|3539509|"Pitangueiras"|0
+"443"|3539608|"Planalto"|0
+"444"|3539707|"Platina"|0
+"445"|3539806|"Poá"|1
+"446"|3539905|"Poloni"|0
+"447"|3540002|"Pompéia"|3
+"448"|3540101|"Pongaí"|0
+"449"|3540200|"Pontal"|0
+"450"|3540259|"Pontalinda"|0
+"451"|3540309|"Pontes Gestal"|0
+"452"|3540408|"Populina"|0
+"453"|3540507|"Porangaba"|0
+"454"|3540606|"Porto Feliz"|1
+"455"|3540705|"Porto Ferreira"|0
+"456"|3540754|"Potim"|0
+"457"|3540804|"Potirendaba"|0
+"458"|3540853|"Pracinha"|0
+"459"|3540903|"Pradópolis"|0
+"460"|3541000|"Praia Grande"|2
+"461"|3541059|"Pratânia"|0
+"462"|3541109|"Presidente Alves"|0
+"463"|3541208|"Presidente Bernardes"|0
+"464"|3541307|"Presidente Epitácio"|1
+"465"|3541406|"Presidente Prudente"|3
+"466"|3541505|"Presidente Venceslau"|0
+"467"|3541604|"Promissão"|1
+"468"|3541653|"Quadra"|0
+"469"|3541703|"Quatá"|0
+"470"|3541802|"Queiroz"|0
+"471"|3541901|"Queluz"|0
+"472"|3542008|"Quintana"|0
+"473"|3542107|"Rafard"|0
+"474"|3542206|"Rancharia"|0
+"475"|3542305|"Redenção Da Serra"|0
+"476"|3542404|"Regente Feijó"|0
+"477"|3542503|"Reginópolis"|0
+"478"|3542602|"Registro"|0
+"479"|3542701|"Restinga"|0
+"480"|3542800|"Ribeira"|0
+"481"|3542909|"Ribeirão Bonito"|1
+"482"|3543006|"Ribeirão Branco"|0
+"483"|3543105|"Ribeirão Corrente"|0
+"484"|3543204|"Ribeirão Do Sul"|0
+"485"|3543238|"Ribeirão Dos Índios"|0
+"486"|3543253|"Ribeirão Grande"|0
+"487"|3543303|"Ribeirão Pires"|0
+"488"|3543402|"Ribeirão Preto"|7
+"489"|3543501|"Riversul"|0
+"490"|3543600|"Rifaina"|0
+"491"|3543709|"Rincão"|0
+"492"|3543808|"Rinópolis"|0
+"493"|3543907|"Rio Claro"|5
+"494"|3544004|"Rio Das Pedras"|0
+"495"|3544103|"Rio Grande Da Serra"|0
+"496"|3544202|"Riolândia"|1
+"497"|3544251|"Rosana"|0
+"498"|3544301|"Roseira"|0
+"499"|3544400|"Rubiácea"|0
+"500"|3544509|"Rubinéia"|0
+"501"|3544608|"Sabino"|0
+"502"|3544707|"Sagres"|0
+"503"|3544806|"Sales"|0
+"504"|3544905|"Sales Oliveira"|0
+"505"|3545001|"Salesópolis"|0
+"506"|3545100|"Salmourão"|0
+"507"|3545159|"Saltinho"|0
+"508"|3545209|"Salto"|2
+"509"|3545308|"Salto De Pirapora"|0
+"510"|3545407|"Salto Grande"|0
+"511"|3545506|"Sandovalina"|0
+"512"|3545605|"Santa Adélia"|0
+"513"|3545704|"Santa Albertina"|0
+"514"|3545803|"Santa Bárbara D'oeste"|1
+"515"|3546009|"Santa Branca"|1
+"516"|3546108|"Santa Clara D'oeste"|0
+"517"|3546207|"Santa Cruz Da Conceição"|0
+"518"|3546256|"Santa Cruz Da Esperança"|0
+"519"|3546306|"Santa Cruz Das Palmeiras"|0
+"520"|3546405|"Santa Cruz Do Rio Pardo"|0
+"521"|3546504|"Santa Ernestina"|0
+"522"|3546603|"Santa Fé Do Sul"|2
+"523"|3546702|"Santa Gertrudes"|0
+"524"|3546801|"Santa Isabel"|0
+"525"|3546900|"Santa Lúcia"|0
+"526"|3547007|"Santa Maria Da Serra"|2
+"527"|3547106|"Santa Mercedes"|0
+"528"|3547205|"Santana Da Ponte Pensa"|0
+"529"|3547304|"Santana De Parnaíba"|2
+"530"|3547403|"Santa Rita D'oeste"|0
+"531"|3547502|"Santa Rita Do Passa Quatro"|0
+"532"|3547601|"Santa Rosa De Viterbo"|0
+"533"|3547650|"Santa Salete"|0
+"534"|3547700|"Santo Anastácio"|0
+"535"|3547809|"Santo André"|1
+"536"|3547908|"Santo Antônio Da Alegria"|0
+"537"|3548005|"Santo Antônio De Posse"|4
+"538"|3548054|"Santo Antônio Do Aracanguá"|0
+"539"|3548104|"Santo Antônio Do Jardim"|0
+"540"|3548203|"Santo Antônio Do Pinhal"|0
+"541"|3548302|"Santo Expedito"|0
+"542"|3548401|"Santópolis Do Aguapeí"|0
+"543"|3548500|"Santos"|4
+"544"|3548609|"São Bento Do Sapucaí"|0
+"545"|3548708|"São Bernardo Do Campo"|6
+"546"|3548807|"São Caetano Do Sul"|8
+"547"|3548906|"São Carlos"|5
+"548"|3549003|"São Francisco"|0
+"549"|3549102|"São João Da Boa Vista"|3
+"550"|3549201|"São João Das Duas Pontes"|0
+"551"|3549250|"São João De Iracema"|0
+"552"|3549300|"São João Do Pau D'alho"|0
+"553"|3549409|"São Joaquim Da Barra"|0
+"554"|3549508|"São José Da Bela Vista"|0
+"555"|3549607|"São José Do Barreiro"|0
+"556"|3549706|"São José Do Rio Pardo"|0
+"557"|3549805|"São José Do Rio Preto"|2
+"558"|3549904|"São José Dos Campos"|26
+"559"|3549953|"São Lourenço Da Serra"|0
+"560"|3550001|"São Luiz Do Paraitinga"|0
+"561"|3550100|"São Manuel"|0
+"562"|3550209|"São Miguel Arcanjo"|0
+"563"|3550308|"São Paulo"|117
+"564"|3550407|"São Pedro"|0
+"565"|3550506|"São Pedro Do Turvo"|0
+"566"|3550605|"São Roque"|0
+"567"|3550704|"São Sebastião"|0
+"568"|3550803|"São Sebastião Da Grama"|3
+"569"|3550902|"São Simão"|0
+"570"|3551009|"São Vicente"|1
+"571"|3551108|"Sarapuí"|0
+"572"|3551207|"Sarutaiá"|0
+"573"|3551306|"Sebastianópolis Do Sul"|0
+"574"|3551405|"Serra Azul"|0
+"575"|3551504|"Serrana"|0
+"576"|3551603|"Serra Negra"|0
+"577"|3551702|"Sertãozinho"|4
+"578"|3551801|"Sete Barras"|0
+"579"|3551900|"Severínia"|0
+"580"|3552007|"Silveiras"|0
+"581"|3552106|"Socorro"|0
+"582"|3552205|"Sorocaba"|7
+"583"|3552304|"Sud Mennucci"|0
+"584"|3552403|"Sumaré"|4
+"585"|3552502|"Suzano"|4
+"586"|3552551|"Suzanápolis"|0
+"587"|3552601|"Tabapuã"|0
+"588"|3552700|"Tabatinga"|0
+"589"|3552809|"Taboão Da Serra"|7
+"590"|3552908|"Taciba"|0
+"591"|3553005|"Taguaí"|0
+"592"|3553104|"Taiaçu"|0
+"593"|3553203|"Taiúva"|0
+"594"|3553302|"Tambaú"|0
+"595"|3553401|"Tanabi"|0
+"596"|3553500|"Tapiraí"|0
+"597"|3553609|"Tapiratiba"|0
+"598"|3553658|"Taquaral"|0
+"599"|3553708|"Taquaritinga"|0
+"600"|3553807|"Taquarituba"|0
+"601"|3553856|"Taquarivaí"|0
+"602"|3553906|"Tarabai"|0
+"603"|3553955|"Tarumã"|0
+"604"|3554003|"Tatuí"|0
+"605"|3554102|"Taubaté"|8
+"606"|3554201|"Tejupá"|0
+"607"|3554300|"Teodoro Sampaio"|0
+"608"|3554409|"Terra Roxa"|0
+"609"|3554508|"Tietê"|0
+"610"|3554607|"Timburi"|0
+"611"|3554656|"Torre De Pedra"|0
+"612"|3554706|"Torrinha"|0
+"613"|3554755|"Trabiju"|0
+"614"|3554805|"Tremembé"|0
+"615"|3554904|"Três Fronteiras"|0
+"616"|3554953|"Tuiuti"|1
+"617"|3555000|"Tupã"|0
+"618"|3555109|"Tupi Paulista"|0
+"619"|3555208|"Turiúba"|0
+"620"|3555307|"Turmalina"|0
+"621"|3555356|"Ubarana"|0
+"622"|3555406|"Ubatuba"|0
+"623"|3555505|"Ubirajara"|0
+"624"|3555604|"Uchoa"|0
+"625"|3555703|"União Paulista"|0
+"626"|3555802|"Urânia"|0
+"627"|3555901|"Uru"|0
+"628"|3556008|"Urupês"|0
+"629"|3556107|"Valentim Gentil"|1
+"630"|3556206|"Valinhos"|1
+"631"|3556305|"Valparaíso"|0
+"632"|3556354|"Vargem"|0
+"633"|3556404|"Vargem Grande Do Sul"|1
+"634"|3556453|"Vargem Grande Paulista"|3
+"635"|3556503|"Várzea Paulista"|3
+"636"|3556602|"Vera Cruz"|0
+"637"|3556701|"Vinhedo"|3
+"638"|3556800|"Viradouro"|0
+"639"|3556909|"Vista Alegre Do Alto"|0
+"640"|3556958|"Vitória Brasil"|0
+"641"|3557006|"Votorantim"|0
+"642"|3557105|"Votuporanga"|3
+"643"|3557154|"Zacarias"|1
+"644"|3557204|"Chavantes"|0
+"645"|3557303|"Estiva Gerbi"|0

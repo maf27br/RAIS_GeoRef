@@ -1,0 +1,646 @@
+"","CO_UF","NO_UF","SGL_UF","CO_MESORREGIAO","DS_MESORREGIAO","CO_MICRORREGIAO","DS_MICRORREGIAO","CO_MUNICIPIO_P","CO_MUNICIPIO","NOME_MUNICIPIO.x","LATITUDE","LONGITUDE","NOME_MUNICIPIO.y","QTD"
+"1","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","00105",3500105,"Adamantina","-21.682","-51.0737",,
+"2","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","00204",3500204,"Adolfo","-21.2325","-49.6451",,
+"3","35","São Paulo","SP","07","Campinas","029","Pirassununga","00303",3500303,"Aguaí","-22.0572","-46.9735","Aguaí",3
+"4","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","00402",3500402,"Águas da Prata","-21.9319","-46.7176",,
+"5","35","São Paulo","SP","07","Campinas","033","Amparo","00501",3500501,"Águas de Lindóia","-22.4733","-46.6314",,
+"6","35","São Paulo","SP","04","Bauru","022","Avaré","00550",3500550,"Águas de Santa Bárbara","-22.8812","-49.2421",,
+"7","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","00600",3500600,"Águas de São Pedro","-22.5977","-47.8734",,
+"8","35","São Paulo","SP","04","Bauru","020","Bauru","00709",3500709,"Agudos","-22.4694","-48.9863",,
+"9","35","São Paulo","SP","11","Itapetininga","042","Itapetininga","00758",3500758,"Alambari","-23.5503","-47.898",,
+"10","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","00808",3500808,"Alfredo Marcondes","-21.9527","-51.414",,
+"11","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","00907",3500907,"Altair","-20.5242","-49.0571",,
+"12","35","São Paulo","SP","02","Ribeirão Preto","015","Batatais","01004",3501004,"Altinópolis","-21.0214","-47.3712","Altinópolis",1
+"13","35","São Paulo","SP","03","Araçatuba","018","Birigui","01103",3501103,"Alto Alegre","-21.5811","-50.168",,
+"14","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","01152",3501152,"Alumínio","-23.5306","-47.2546",,
+"15","35","São Paulo","SP","01","São José do Rio Preto","003","Votuporanga","01202",3501202,"Álvares Florence","-20.3203","-49.9141",,
+"16","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","01301",3501301,"Álvares Machado","-22.0764","-51.4722",,
+"17","35","São Paulo","SP","09","Marília","038","Marília","01400",3501400,"Álvaro de Carvalho","-22.0841","-49.719",,
+"18","35","São Paulo","SP","09","Marília","038","Marília","01509",3501509,"Alvinlândia","-22.4435","-49.7623",,
+"19","35","São Paulo","SP","07","Campinas","032","Campinas","01608",3501608,"Americana","-22.7374","-47.3331","Americana",1
+"20","35","São Paulo","SP","05","Araraquara","024","Araraquara","01707",3501707,"Américo Brasiliense","-21.7288","-48.1147",,
+"21","35","São Paulo","SP","01","São José do Rio Preto","003","Votuporanga","01806",3501806,"Américo de Campos","-20.2985","-49.7359",,
+"22","35","São Paulo","SP","07","Campinas","033","Amparo","01905",3501905,"Amparo","-22.7088","-46.772","Amparo",4
+"23","35","São Paulo","SP","05","Araraquara","025","São Carlos","02002",3502002,"Analândia","-22.1289","-47.6619",,
+"24","35","São Paulo","SP","03","Araçatuba","016","Andradina","02101",3502101,"Andradina","-20.8948","-51.3786",,
+"25","35","São Paulo","SP","11","Itapetininga","042","Itapetininga","02200",3502200,"Angatuba","-23.4917","-48.4139","Angatuba",3
+"26","35","São Paulo","SP","04","Bauru","023","Botucatu","02309",3502309,"Anhembi","-22.793","-48.1336",,
+"27","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","02408",3502408,"Anhumas","-22.2934","-51.3895",,
+"28","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","02507",3502507,"Aparecida","-22.8495","-45.2325",,
+"29","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","02606",3502606,"Aparecida d'Oeste","-20.4487","-50.8835",,
+"30","35","São Paulo","SP","11","Itapetininga","044","Capão Bonito","02705",3502705,"Apiaí","-24.5108","-48.8443",,
+"31","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","02754",3502754,"Araçariguama","-23.4366","-47.0608",,
+"32","35","São Paulo","SP","03","Araçatuba","017","Araçatuba","02804",3502804,"Araçatuba","-21.2076","-50.4401","Araçatuba",19
+"33","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","02903",3502903,"Araçoiaba da Serra","-23.5029","-47.6166","Araçoiaba da Serra",1
+"34","35","São Paulo","SP","02","Ribeirão Preto","011","Ituverava","03000",3503000,"Aramina","-20.0882","-47.7873",,
+"35","35","São Paulo","SP","04","Bauru","022","Avaré","03109",3503109,"Arandu","-23.1386","-49.0487",,
+"36","35","São Paulo","SP","13","Vale do Paraíba Paulista","052","Bananal","03158",3503158,"Arapeí","-22.6717","-44.4441",,
+"37","35","São Paulo","SP","05","Araraquara","024","Araraquara","03208",3503208,"Araraquara","-21.7845","-48.178","Araraquara",2
+"38","35","São Paulo","SP","06","Piracicaba","027","Limeira","03307",3503307,"Araras","-22.3572","-47.3842","Araras",1
+"39","35","São Paulo","SP","09","Marília","037","Tupã","03356",3503356,"Arco-Íris","-21.7728","-50.466","Arco-Íris",1
+"40","35","São Paulo","SP","04","Bauru","020","Bauru","03406",3503406,"Arealva","-22.031","-48.9135",,
+"41","35","São Paulo","SP","13","Vale do Paraíba Paulista","052","Bananal","03505",3503505,"Areias","-22.5786","-44.6992",,
+"42","35","São Paulo","SP","04","Bauru","020","Bauru","03604",3503604,"Areiópolis","-22.6672","-48.6681",,
+"43","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","03703",3503703,"Ariranha","-21.1872","-48.7904",,
+"44","35","São Paulo","SP","07","Campinas","031","Mogi Mirim","03802",3503802,"Artur Nogueira","-22.5727","-47.1727","Artur Nogueira",2
+"45","35","São Paulo","SP","15","Metropolitana de São Paulo","059","Guarulhos","03901",3503901,"Arujá","-23.3965","-46.32",,
+"46","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","03950",3503950,"Aspásia","-20.16","-50.728",,
+"47","35","São Paulo","SP","10","Assis","039","Assis","04008",3504008,"Assis","-22.66","-50.4183","Assis",2
+"48","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","04107",3504107,"Atibaia","-23.1171","-46.5563","Atibaia",1
+"49","35","São Paulo","SP","01","São José do Rio Preto","006","Auriflama","04206",3504206,"Auriflama","-20.6836","-50.5572",,
+"50","35","São Paulo","SP","04","Bauru","020","Bauru","04305",3504305,"Avaí","-22.1514","-49.3356",,
+"51","35","São Paulo","SP","03","Araçatuba","018","Birigui","04404",3504404,"Avanhandava","-21.4584","-49.9509","Avanhandava",6
+"52","35","São Paulo","SP","04","Bauru","022","Avaré","04503",3504503,"Avaré","-23.1067","-48.9251","Avaré",1
+"53","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","04602",3504602,"Bady Bassitt","-20.9197","-49.4385",,
+"54","35","São Paulo","SP","04","Bauru","020","Bauru","04701",3504701,"Balbinos","-21.8963","-49.3619",,
+"55","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","04800",3504800,"Bálsamo","-20.7348","-49.5865",,
+"56","35","São Paulo","SP","13","Vale do Paraíba Paulista","052","Bananal","04909",3504909,"Bananal","-22.6819","-44.3281",,
+"57","35","São Paulo","SP","11","Itapetininga","041","Itapeva","05005",3505005,"Barão de Antonina","-23.6284","-49.5634",,
+"58","35","São Paulo","SP","03","Araçatuba","018","Birigui","05104",3505104,"Barbosa","-21.2657","-49.9518","Barbosa",26
+"59","35","São Paulo","SP","04","Bauru","021","Jaú","05203",3505203,"Bariri","-22.073","-48.7438","Bariri",7
+"60","35","São Paulo","SP","04","Bauru","021","Jaú","05302",3505302,"Barra Bonita","-22.4909","-48.5583","Barra Bonita",15
+"61","35","São Paulo","SP","11","Itapetininga","044","Capão Bonito","05351",3505351,"Barra do Chapéu","-24.4722","-49.0238",,
+"62","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","05401",3505401,"Barra do Turvo","-24.759","-48.5013",,
+"63","35","São Paulo","SP","02","Ribeirão Preto","009","Barretos","05500",3505500,"Barretos","-20.5531","-48.5698","Barretos",1
+"64","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","05609",3505609,"Barrinha","-21.1864","-48.1636","Barrinha",4
+"65","35","São Paulo","SP","15","Metropolitana de São Paulo","057","Osasco","05708",3505708,"Barueri","-23.5057","-46.879",,
+"66","35","São Paulo","SP","09","Marília","037","Tupã","05807",3505807,"Bastos","-21.921","-50.7357",,
+"67","35","São Paulo","SP","02","Ribeirão Preto","015","Batatais","05906",3505906,"Batatais","-20.8929","-47.5921",,
+"68","35","São Paulo","SP","04","Bauru","020","Bauru","06003",3506003,"Bauru","-22.3246","-49.0871","Bauru",1
+"69","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","06102",3506102,"Bebedouro","-20.9491","-48.4791",,
+"70","35","São Paulo","SP","03","Araçatuba","017","Araçatuba","06201",3506201,"Bento de Abreu","-21.2686","-50.814",,
+"71","35","São Paulo","SP","10","Assis","040","Ourinhos","06300",3506300,"Bernardino de Campos","-23.0164","-49.4679",,
+"72","35","São Paulo","SP","15","Metropolitana de São Paulo","063","Santos","06359",3506359,"Bertioga","-23.8486","-46.1396",,
+"73","35","São Paulo","SP","03","Araçatuba","018","Birigui","06409",3506409,"Bilac","-21.404","-50.4746",,
+"74","35","São Paulo","SP","03","Araçatuba","018","Birigui","06508",3506508,"Birigui","-21.291","-50.3432","Birigui",5
+"75","35","São Paulo","SP","15","Metropolitana de São Paulo","062","Mogi das Cruzes","06607",3506607,"Biritiba Mirim","-23.5698","-46.0407",,
+"76","35","São Paulo","SP","05","Araraquara","024","Araraquara","06706",3506706,"Boa Esperança do Sul","-21.9918","-48.3906",,
+"77","35","São Paulo","SP","04","Bauru","021","Jaú","06805",3506805,"Bocaina","-22.1365","-48.523",,
+"78","35","São Paulo","SP","04","Bauru","023","Botucatu","06904",3506904,"Bofete","-23.1055","-48.2582",,
+"79","35","São Paulo","SP","11","Itapetininga","043","Tatuí","07001",3507001,"Boituva","-23.2855","-47.6786","Boituva",1
+"80","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","07100",3507100,"Bom Jesus dos Perdões","-23.1356","-46.4675",,
+"81","35","São Paulo","SP","11","Itapetininga","041","Itapeva","07159",3507159,"Bom Sucesso de Itararé","-24.3155","-49.1451",,
+"82","35","São Paulo","SP","10","Assis","039","Assis","07209",3507209,"Borá","-22.2696","-50.5409","Borá",1
+"83","35","São Paulo","SP","04","Bauru","021","Jaú","07308",3507308,"Boracéia","-22.1926","-48.7808","Boracéia",1
+"84","35","São Paulo","SP","05","Araraquara","024","Araraquara","07407",3507407,"Borborema","-21.6214","-49.0741",,
+"85","35","São Paulo","SP","04","Bauru","020","Bauru","07456",3507456,"Borebi","-22.5728","-48.9707",,
+"86","35","São Paulo","SP","04","Bauru","023","Botucatu","07506",3507506,"Botucatu","-22.8837","-48.4437",,
+"87","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","07605",3507605,"Bragança Paulista","-22.9527","-46.5419","Bragança Paulista",34
+"88","35","São Paulo","SP","03","Araçatuba","018","Birigui","07704",3507704,"Braúna","-21.499","-50.3175",,
+"89","35","São Paulo","SP","03","Araçatuba","018","Birigui","07753",3507753,"Brejo Alegre","-21.1651","-50.1861",,
+"90","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","07803",3507803,"Brodowski","-20.9845","-47.6572",,
+"91","35","São Paulo","SP","06","Piracicaba","026","Rio Claro","07902",3507902,"Brotas","-22.2795","-48.1251",,
+"92","35","São Paulo","SP","11","Itapetininga","041","Itapeva","08009",3508009,"Buri","-23.7977","-48.5958","Buri",1
+"93","35","São Paulo","SP","03","Araçatuba","018","Birigui","08108",3508108,"Buritama","-21.0661","-50.1475","Buritama",2
+"94","35","São Paulo","SP","02","Ribeirão Preto","011","Ituverava","08207",3508207,"Buritizal","-20.1911","-47.7096",,
+"95","35","São Paulo","SP","04","Bauru","020","Bauru","08306",3508306,"Cabrália Paulista","-22.4576","-49.3393",,
+"96","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","08405",3508405,"Cabreúva","-23.3053","-47.1362","Cabreúva",28
+"97","35","São Paulo","SP","13","Vale do Paraíba Paulista","050","São José dos Campos","08504",3508504,"Caçapava","-23.0992","-45.7076","Caçapava",2
+"98","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","08603",3508603,"Cachoeira Paulista","-22.6665","-45.0154","Cachoeira Paulista",3
+"99","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","08702",3508702,"Caconde","-21.528","-46.6437","Caconde",1
+"100","35","São Paulo","SP","04","Bauru","019","Lins","08801",3508801,"Cafelândia","-21.8031","-49.6092",,
+"101","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","08900",3508900,"Caiabu","-22.0127","-51.2394",,
+"102","35","São Paulo","SP","15","Metropolitana de São Paulo","058","Franco da Rocha","09007",3509007,"Caieiras","-23.3607","-46.7397",,
+"103","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","09106",3509106,"Caiuá","-21.8322","-51.9969",,
+"104","35","São Paulo","SP","15","Metropolitana de São Paulo","057","Osasco","09205",3509205,"Cajamar","-23.355","-46.8781","Cajamar",1
+"105","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","09254",3509254,"Cajati","-24.7324","-48.1223",,
+"106","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","09304",3509304,"Cajobi","-20.8773","-48.8063",,
+"107","35","São Paulo","SP","02","Ribeirão Preto","015","Batatais","09403",3509403,"Cajuru","-21.2749","-47.303",,
+"108","35","São Paulo","SP","11","Itapetininga","042","Itapetininga","09452",3509452,"Campina do Monte Alegre","-23.5895","-48.4758",,
+"109","35","São Paulo","SP","07","Campinas","032","Campinas","09502",3509502,"Campinas","-22.9053","-47.0659","Campinas",15
+"110","35","São Paulo","SP","12","Macro Metropolitana Paulista","047","Jundiaí","09601",3509601,"Campo Limpo Paulista","-23.2078","-46.7889",,
+"111","35","São Paulo","SP","13","Vale do Paraíba Paulista","049","Campos do Jordão","09700",3509700,"Campos do Jordão","-22.7296","-45.5833",,
+"112","35","São Paulo","SP","10","Assis","039","Assis","09809",3509809,"Campos Novos Paulista","-22.602","-49.9987",,
+"113","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","09908",3509908,"Cananéia","-25.0144","-47.9341","Cananéia",1
+"114","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","09957",3509957,"Canas","-22.7003","-45.0521","Canas",3
+"115","35","São Paulo","SP","10","Assis","039","Assis","10005",3510005,"Cândido Mota","-22.7471","-50.3873","Cândido Mota",3
+"116","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","10104",3510104,"Cândido Rodrigues","-21.3275","-48.6327",,
+"117","35","São Paulo","SP","10","Assis","040","Ourinhos","10153",3510153,"Canitar","-23.004","-49.7839",,
+"118","35","São Paulo","SP","11","Itapetininga","044","Capão Bonito","10203",3510203,"Capão Bonito","-24.0113","-48.3482",,
+"119","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","10302",3510302,"Capela do Alto","-23.4685","-47.7388","Capela do Alto",1
+"120","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","10401",3510401,"Capivari","-22.9951","-47.5071","Capivari",1
+"121","35","São Paulo","SP","13","Vale do Paraíba Paulista","054","Caraguatatuba","10500",3510500,"Caraguatatuba","-23.6125","-45.4125",,
+"122","35","São Paulo","SP","15","Metropolitana de São Paulo","057","Osasco","10609",3510609,"Carapicuíba","-23.5235","-46.8407",,
+"123","35","São Paulo","SP","01","São José do Rio Preto","003","Votuporanga","10708",3510708,"Cardoso","-20.08","-49.9183",,
+"124","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","10807",3510807,"Casa Branca","-21.7708","-47.0852",,
+"125","35","São Paulo","SP","02","Ribeirão Preto","015","Batatais","10906",3510906,"Cássia dos Coqueiros","-21.2801","-47.1643",,
+"126","35","São Paulo","SP","03","Araçatuba","016","Andradina","11003",3511003,"Castilho","-20.8689","-51.4884","Castilho",3
+"127","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","11102",3511102,"Catanduva","-21.1314","-48.977",,
+"128","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","11201",3511201,"Catiguá","-21.0519","-49.0616","Catiguá",2
+"129","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","11300",3511300,"Cedral","-20.9009","-49.2664",,
+"130","35","São Paulo","SP","04","Bauru","022","Avaré","11409",3511409,"Cerqueira César","-23.038","-49.1655",,
+"131","35","São Paulo","SP","11","Itapetininga","043","Tatuí","11508",3511508,"Cerquilho","-23.1665","-47.7459",,
+"132","35","São Paulo","SP","11","Itapetininga","043","Tatuí","11607",3511607,"Cesário Lange","-23.226","-47.9545","Cesário Lange",7
+"133","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","11706",3511706,"Charqueada","-22.5096","-47.7755","Charqueada",3
+"134","35","São Paulo","SP","10","Assis","040","Ourinhos","57204",3557204,"Chavantes","-23.0366","-49.7096",,
+"135","35","São Paulo","SP","03","Araçatuba","018","Birigui","11904",3511904,"Clementina","-21.5604","-50.4525",,
+"136","35","São Paulo","SP","02","Ribeirão Preto","009","Barretos","12001",3512001,"Colina","-20.7114","-48.5387",,
+"137","35","São Paulo","SP","02","Ribeirão Preto","009","Barretos","12100",3512100,"Colômbia","-20.1768","-48.6865",,
+"138","35","São Paulo","SP","06","Piracicaba","027","Limeira","12209",3512209,"Conchal","-22.3375","-47.1729",,
+"139","35","São Paulo","SP","04","Bauru","023","Botucatu","12308",3512308,"Conchas","-23.0154","-48.0134","Conchas",29
+"140","35","São Paulo","SP","06","Piracicaba","027","Limeira","12407",3512407,"Cordeirópolis","-22.4778","-47.4519","Cordeirópolis",9
+"141","35","São Paulo","SP","03","Araçatuba","018","Birigui","12506",3512506,"Coroados","-21.3521","-50.2859","Coroados",1
+"142","35","São Paulo","SP","11","Itapetininga","041","Itapeva","12605",3512605,"Coronel Macedo","-23.6261","-49.31","Coronel Macedo",2
+"143","35","São Paulo","SP","06","Piracicaba","026","Rio Claro","12704",3512704,"Corumbataí","-22.2213","-47.6215","Corumbataí",7
+"144","35","São Paulo","SP","07","Campinas","032","Campinas","12803",3512803,"Cosmópolis","-22.6419","-47.1926",,
+"145","35","São Paulo","SP","01","São José do Rio Preto","003","Votuporanga","12902",3512902,"Cosmorama","-20.4755","-49.7827",,
+"146","35","São Paulo","SP","15","Metropolitana de São Paulo","060","Itapecerica da Serra","13009",3513009,"Cotia","-23.6022","-46.919",,
+"147","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","13108",3513108,"Cravinhos","-21.338","-47.7324",,
+"148","35","São Paulo","SP","02","Ribeirão Preto","012","Franca","13207",3513207,"Cristais Paulista","-20.4036","-47.4209",,
+"149","35","São Paulo","SP","10","Assis","039","Assis","13306",3513306,"Cruzália","-22.7373","-50.7909","Cruzália",1
+"150","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","13405",3513405,"Cruzeiro","-22.5728","-44.969","Cruzeiro",2
+"151","35","São Paulo","SP","15","Metropolitana de São Paulo","063","Santos","13504",3513504,"Cubatão","-23.8911","-46.424",,
+"152","35","São Paulo","SP","13","Vale do Paraíba Paulista","053","Paraibuna/Paraitinga","13603",3513603,"Cunha","-23.0731","-44.9576","Cunha",1
+"153","35","São Paulo","SP","05","Araraquara","025","São Carlos","13702",3513702,"Descalvado","-21.9002","-47.6181",,
+"154","35","São Paulo","SP","15","Metropolitana de São Paulo","061","São Paulo","13801",3513801,"Diadema","-23.6813","-46.6205","Diadema",1
+"155","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","13850",3513850,"Dirce Reis","-20.4642","-50.6073",,
+"156","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","13900",3513900,"Divinolândia","-21.6637","-46.7361",,
+"157","35","São Paulo","SP","05","Araraquara","024","Araraquara","14007",3514007,"Dobrada","-21.5155","-48.3935",,
+"158","35","São Paulo","SP","04","Bauru","021","Jaú","14106",3514106,"Dois Córregos","-22.3673","-48.3819",,
+"159","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","14205",3514205,"Dolcinópolis","-20.124","-50.5149",,
+"160","35","São Paulo","SP","05","Araraquara","025","São Carlos","14304",3514304,"Dourado","-22.1044","-48.3178",,
+"161","35","São Paulo","SP","08","Presidente Prudente","034","Dracena","14403",3514403,"Dracena","-21.4843","-51.535",,
+"162","35","São Paulo","SP","04","Bauru","020","Bauru","14502",3514502,"Duartina","-22.4146","-49.4084",,
+"163","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","14601",3514601,"Dumont","-21.2324","-47.9756",,
+"164","35","São Paulo","SP","09","Marília","038","Marília","14700",3514700,"Echaporã","-22.4326","-50.2038",,
+"165","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","14809",3514809,"Eldorado","-24.5281","-48.1141",,
+"166","35","São Paulo","SP","07","Campinas","032","Campinas","14908",3514908,"Elias Fausto","-23.0428","-47.3682","Elias Fausto",6
+"167","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","14924",3514924,"Elisiário","-21.1678","-49.1146",,
+"168","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","14957",3514957,"Embaúba","-20.9796","-48.8325",,
+"169","35","São Paulo","SP","15","Metropolitana de São Paulo","060","Itapecerica da Serra","15004",3515004,"Embu das Artes","-23.6437","-46.8579",,
+"170","35","São Paulo","SP","15","Metropolitana de São Paulo","060","Itapecerica da Serra","15103",3515103,"Embu-Guaçu","-23.8297","-46.8136","Embu-Guaçu",1
+"171","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","15129",3515129,"Emilianópolis","-21.8314","-51.4832",,
+"172","35","São Paulo","SP","07","Campinas","031","Mogi Mirim","15152",3515152,"Engenheiro Coelho","-22.4836","-47.211",,
+"173","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","15186",3515186,"Espírito Santo do Pinhal","-22.1909","-46.7477","Espírito Santo do Pinhal",2
+"174","35","São Paulo","SP","10","Assis","040","Ourinhos","15194",3515194,"Espírito Santo do Turvo","-22.6925","-49.4341",,
+"175","35","São Paulo","SP","07","Campinas","031","Mogi Mirim","57303",3557303,"Estiva Gerbi","-22.2713","-46.9481","Estiva Gerbi",1
+"176","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","15301",3515301,"Estrela do Norte","-22.4859","-51.6632",,
+"177","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","15202",3515202,"Estrela d'Oeste","-20.2875","-50.4049",,
+"178","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","15350",3515350,"Euclides da Cunha Paulista","-22.5545","-52.5928",,
+"179","35","São Paulo","SP","10","Assis","040","Ourinhos","15400",3515400,"Fartura","-23.3916","-49.5124","Fartura",8
+"180","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","15608",3515608,"Fernando Prestes","-21.2661","-48.6874",,
+"181","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","15509",3515509,"Fernandópolis","-20.2806","-50.2471",,
+"182","35","São Paulo","SP","09","Marília","038","Marília","15657",3515657,"Fernão","-22.3607","-49.5187","Fernão",1
+"183","35","São Paulo","SP","15","Metropolitana de São Paulo","062","Mogi das Cruzes","15707",3515707,"Ferraz de Vasconcelos","-23.5411","-46.371",,
+"184","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","15806",3515806,"Flora Rica","-21.6727","-51.3821",,
+"185","35","São Paulo","SP","01","São José do Rio Preto","006","Auriflama","15905",3515905,"Floreal","-20.6752","-50.1513",,
+"186","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","16002",3516002,"Flórida Paulista","-21.6127","-51.1724",,
+"187","35","São Paulo","SP","10","Assis","039","Assis","16101",3516101,"Florínea","-22.868","-50.6814",,
+"188","35","São Paulo","SP","02","Ribeirão Preto","012","Franca","16200",3516200,"Franca","-20.5352","-47.4039",,
+"189","35","São Paulo","SP","15","Metropolitana de São Paulo","058","Franco da Rocha","16309",3516309,"Francisco Morato","-23.2792","-46.7448",,
+"190","35","São Paulo","SP","15","Metropolitana de São Paulo","058","Franco da Rocha","16408",3516408,"Franco da Rocha","-23.3229","-46.729",,
+"191","35","São Paulo","SP","03","Araçatuba","018","Birigui","16507",3516507,"Gabriel Monteiro","-21.5294","-50.5573",,
+"192","35","São Paulo","SP","09","Marília","038","Marília","16606",3516606,"Gália","-22.2918","-49.5504","Gália",1
+"193","35","São Paulo","SP","09","Marília","038","Marília","16705",3516705,"Garça","-22.2125","-49.6546",,
+"194","35","São Paulo","SP","01","São José do Rio Preto","006","Auriflama","16804",3516804,"Gastão Vidigal","-20.7948","-50.1912",,
+"195","35","São Paulo","SP","05","Araraquara","024","Araraquara","16853",3516853,"Gavião Peixoto","-21.8367","-48.4957",,
+"196","35","São Paulo","SP","01","São José do Rio Preto","006","Auriflama","16903",3516903,"General Salgado","-20.6485","-50.364",,
+"197","35","São Paulo","SP","04","Bauru","019","Lins","17000",3517000,"Getulina","-21.7961","-49.9312",,
+"198","35","São Paulo","SP","03","Araçatuba","018","Birigui","17109",3517109,"Glicério","-21.3812","-50.2123","Glicério",12
+"199","35","São Paulo","SP","04","Bauru","019","Lins","17208",3517208,"Guaiçara","-21.6195","-49.8013",,
+"200","35","São Paulo","SP","04","Bauru","019","Lins","17307",3517307,"Guaimbê","-21.9091","-49.8986",,
+"201","35","São Paulo","SP","02","Ribeirão Preto","010","São Joaquim da Barra","17406",3517406,"Guaíra","-20.3196","-48.312",,
+"202","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","17505",3517505,"Guapiaçu","-20.7959","-49.2172",,
+"203","35","São Paulo","SP","11","Itapetininga","044","Capão Bonito","17604",3517604,"Guapiara","-24.1892","-48.5295",,
+"204","35","São Paulo","SP","02","Ribeirão Preto","011","Ituverava","17703",3517703,"Guará","-20.4302","-47.8236",,
+"205","35","São Paulo","SP","03","Araçatuba","016","Andradina","17802",3517802,"Guaraçaí","-21.0292","-51.2119",,
+"206","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","17901",3517901,"Guaraci","-20.4977","-48.9391",,
+"207","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","18008",3518008,"Guarani d'Oeste","-20.0746","-50.3411",,
+"208","35","São Paulo","SP","04","Bauru","020","Bauru","18107",3518107,"Guarantã","-21.8942","-49.5914",,
+"209","35","São Paulo","SP","03","Araçatuba","017","Araçatuba","18206",3518206,"Guararapes","-21.2544","-50.6453","Guararapes",1
+"210","35","São Paulo","SP","15","Metropolitana de São Paulo","062","Mogi das Cruzes","18305",3518305,"Guararema","-23.4112","-46.0369","Guararema",1
+"211","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","18404",3518404,"Guaratinguetá","-22.8075","-45.1938","Guaratinguetá",5
+"212","35","São Paulo","SP","11","Itapetininga","042","Itapetininga","18503",3518503,"Guareí","-23.3714","-48.1837",,
+"213","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","18602",3518602,"Guariba","-21.3594","-48.2316",,
+"214","35","São Paulo","SP","15","Metropolitana de São Paulo","063","Santos","18701",3518701,"Guarujá","-23.9888","-46.258","Guarujá",1
+"215","35","São Paulo","SP","15","Metropolitana de São Paulo","059","Guarulhos","18800",3518800,"Guarulhos","-23.4538","-46.5333","Guarulhos",1
+"216","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","18859",3518859,"Guatapará","-21.4944","-48.0356","Guatapará",2
+"217","35","São Paulo","SP","01","São José do Rio Preto","006","Auriflama","18909",3518909,"Guzolândia","-20.6467","-50.6645",,
+"218","35","São Paulo","SP","09","Marília","037","Tupã","19006",3519006,"Herculândia","-22.0038","-50.3907",,
+"219","35","São Paulo","SP","07","Campinas","032","Campinas","19055",3519055,"Holambra","-22.6405","-47.0487",,
+"220","35","São Paulo","SP","07","Campinas","032","Campinas","19071",3519071,"Hortolândia","-22.8529","-47.2143","Hortolândia",1
+"221","35","São Paulo","SP","04","Bauru","020","Bauru","19105",3519105,"Iacanga","-21.8896","-49.031",,
+"222","35","São Paulo","SP","09","Marília","037","Tupã","19204",3519204,"Iacri","-21.8572","-50.6932",,
+"223","35","São Paulo","SP","04","Bauru","022","Avaré","19253",3519253,"Iaras","-22.8682","-49.1634",,
+"224","35","São Paulo","SP","05","Araraquara","025","São Carlos","19303",3519303,"Ibaté","-21.9584","-47.9882",,
+"225","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","19402",3519402,"Ibirá","-21.083","-49.2448",,
+"226","35","São Paulo","SP","10","Assis","039","Assis","19501",3519501,"Ibirarema","-22.8185","-50.0739","Ibirarema",2
+"227","35","São Paulo","SP","05","Araraquara","024","Araraquara","19600",3519600,"Ibitinga","-21.7562","-48.8319",,
+"228","35","São Paulo","SP","12","Macro Metropolitana Paulista","045","Piedade","19709",3519709,"Ibiúna","-23.6596","-47.223","Ibiúna",1
+"229","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","19808",3519808,"Icém","-20.3391","-49.1915",,
+"230","35","São Paulo","SP","10","Assis","039","Assis","19907",3519907,"Iepê","-22.6602","-51.0779",,
+"231","35","São Paulo","SP","04","Bauru","021","Jaú","20004",3520004,"Igaraçu do Tietê","-22.509","-48.5597","Igaraçu do Tietê",6
+"232","35","São Paulo","SP","02","Ribeirão Preto","011","Ituverava","20103",3520103,"Igarapava","-20.0407","-47.7466","Igarapava",2
+"233","35","São Paulo","SP","13","Vale do Paraíba Paulista","050","São José dos Campos","20202",3520202,"Igaratá","-23.2037","-46.157",,
+"234","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","20301",3520301,"Iguape","-24.699","-47.5537","Iguape",1
+"235","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","20426",3520426,"Ilha Comprida","-24.7307","-47.5383",,
+"236","35","São Paulo","SP","03","Araçatuba","016","Andradina","20442",3520442,"Ilha Solteira","-20.4326","-51.3426",,
+"237","35","São Paulo","SP","13","Vale do Paraíba Paulista","054","Caraguatatuba","20400",3520400,"Ilhabela","-23.7785","-45.3552",,
+"238","35","São Paulo","SP","07","Campinas","032","Campinas","20509",3520509,"Indaiatuba","-23.0816","-47.2101","Indaiatuba",8
+"239","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","20608",3520608,"Indiana","-22.1738","-51.2555","Indiana",3
+"240","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","20707",3520707,"Indiaporã","-19.979","-50.2909",,
+"241","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","20806",3520806,"Inúbia Paulista","-21.7695","-50.9633",,
+"242","35","São Paulo","SP","10","Assis","040","Ourinhos","20905",3520905,"Ipaussu","-23.0575","-49.6279",,
+"243","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","21002",3521002,"Iperó","-23.3513","-47.6927","Iperó",1
+"244","35","São Paulo","SP","06","Piracicaba","026","Rio Claro","21101",3521101,"Ipeúna","-22.4355","-47.7151","Ipeúna",1
+"245","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","21150",3521150,"Ipiguá","-20.6557","-49.3842",,
+"246","35","São Paulo","SP","11","Itapetininga","044","Capão Bonito","21200",3521200,"Iporanga","-24.5847","-48.5971",,
+"247","35","São Paulo","SP","02","Ribeirão Preto","010","São Joaquim da Barra","21309",3521309,"Ipuã","-20.4438","-48.0129",,
+"248","35","São Paulo","SP","06","Piracicaba","027","Limeira","21408",3521408,"Iracemápolis","-22.5832","-47.523","Iracemápolis",1
+"249","35","São Paulo","SP","01","São José do Rio Preto","008","Novo Horizonte","21507",3521507,"Irapuã","-21.2768","-49.4164",,
+"250","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","21606",3521606,"Irapuru","-21.5684","-51.3472",,
+"251","35","São Paulo","SP","11","Itapetininga","041","Itapeva","21705",3521705,"Itaberá","-23.8638","-49.14",,
+"252","35","São Paulo","SP","04","Bauru","022","Avaré","21804",3521804,"Itaí","-23.4213","-49.092","Itaí",4
+"253","35","São Paulo","SP","01","São José do Rio Preto","008","Novo Horizonte","21903",3521903,"Itajobi","-21.3123","-49.0629",,
+"254","35","São Paulo","SP","04","Bauru","021","Jaú","22000",3522000,"Itaju","-21.9857","-48.8116",,
+"255","35","São Paulo","SP","14","Litoral Sul Paulista","056","Itanhaém","22109",3522109,"Itanhaém","-24.1736","-46.788",,
+"256","35","São Paulo","SP","11","Itapetininga","044","Capão Bonito","22158",3522158,"Itaoca","-24.6393","-48.8413",,
+"257","35","São Paulo","SP","15","Metropolitana de São Paulo","060","Itapecerica da Serra","22208",3522208,"Itapecerica da Serra","-23.7161","-46.8572",,
+"258","35","São Paulo","SP","11","Itapetininga","042","Itapetininga","22307",3522307,"Itapetininga","-23.5886","-48.0483","Itapetininga",6
+"259","35","São Paulo","SP","11","Itapetininga","041","Itapeva","22406",3522406,"Itapeva","-23.9788","-48.8764","Itapeva",3
+"260","35","São Paulo","SP","15","Metropolitana de São Paulo","057","Osasco","22505",3522505,"Itapevi","-23.5488","-46.9327",,
+"261","35","São Paulo","SP","07","Campinas","031","Mogi Mirim","22604",3522604,"Itapira","-22.4357","-46.8224","Itapira",9
+"262","35","São Paulo","SP","11","Itapetininga","044","Capão Bonito","22653",3522653,"Itapirapuã Paulista","-24.572","-49.1661",,
+"263","35","São Paulo","SP","05","Araraquara","024","Araraquara","22703",3522703,"Itápolis","-21.5942","-48.8149",,
+"264","35","São Paulo","SP","11","Itapetininga","041","Itapeva","22802",3522802,"Itaporanga","-23.7043","-49.4819","Itaporanga",2
+"265","35","São Paulo","SP","04","Bauru","021","Jaú","22901",3522901,"Itapuí","-22.2324","-48.7197",,
+"266","35","São Paulo","SP","03","Araçatuba","016","Andradina","23008",3523008,"Itapura","-20.6419","-51.5063",,
+"267","35","São Paulo","SP","15","Metropolitana de São Paulo","062","Mogi das Cruzes","23107",3523107,"Itaquaquecetuba","-23.4835","-46.3457",,
+"268","35","São Paulo","SP","11","Itapetininga","041","Itapeva","23206",3523206,"Itararé","-24.1085","-49.3352",,
+"269","35","São Paulo","SP","14","Litoral Sul Paulista","056","Itanhaém","23305",3523305,"Itariri","-24.2834","-47.1736",,
+"270","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","23404",3523404,"Itatiba","-23.0035","-46.8464",,
+"271","35","São Paulo","SP","04","Bauru","022","Avaré","23503",3523503,"Itatinga","-23.1047","-48.6157","Itatinga",1
+"272","35","São Paulo","SP","06","Piracicaba","026","Rio Claro","23602",3523602,"Itirapina","-22.2562","-47.8166",,
+"273","35","São Paulo","SP","02","Ribeirão Preto","012","Franca","23701",3523701,"Itirapuã","-20.6416","-47.2194",,
+"274","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","23800",3523800,"Itobi","-21.7309","-46.9743","Itobi",1
+"275","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","23909",3523909,"Itu","-23.2544","-47.2927","Itu",37
+"276","35","São Paulo","SP","12","Macro Metropolitana Paulista","047","Jundiaí","24006",3524006,"Itupeva","-23.1526","-47.0593",,
+"277","35","São Paulo","SP","02","Ribeirão Preto","011","Ituverava","24105",3524105,"Ituverava","-20.3355","-47.7902",,
+"278","35","São Paulo","SP","02","Ribeirão Preto","010","São Joaquim da Barra","24204",3524204,"Jaborandi","-20.6884","-48.4112","Jaborandi",1
+"279","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","24303",3524303,"Jaboticabal","-21.252","-48.3252","Jaboticabal",1
+"280","35","São Paulo","SP","13","Vale do Paraíba Paulista","050","São José dos Campos","24402",3524402,"Jacareí","-23.2983","-45.9658","Jacareí",2
+"281","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","24501",3524501,"Jaci","-20.8805","-49.5797",,
+"282","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","24600",3524600,"Jacupiranga","-24.6963","-48.0064","Jacupiranga",1
+"283","35","São Paulo","SP","07","Campinas","032","Campinas","24709",3524709,"Jaguariúna","-22.7037","-46.9851","Jaguariúna",8
+"284","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","24808",3524808,"Jales","-20.2672","-50.5494",,
+"285","35","São Paulo","SP","13","Vale do Paraíba Paulista","053","Paraibuna/Paraitinga","24907",3524907,"Jambeiro","-23.2522","-45.6942",,
+"286","35","São Paulo","SP","15","Metropolitana de São Paulo","057","Osasco","25003",3525003,"Jandira","-23.5275","-46.9023",,
+"287","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","25102",3525102,"Jardinópolis","-21.0176","-47.7606",,
+"288","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","25201",3525201,"Jarinu","-23.1039","-46.728",,
+"289","35","São Paulo","SP","04","Bauru","021","Jaú","25300",3525300,"Jaú","-22.2936","-48.5592",,
+"290","35","São Paulo","SP","02","Ribeirão Preto","012","Franca","25409",3525409,"Jeriquara","-20.3116","-47.5918",,
+"291","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","25508",3525508,"Joanópolis","-22.927","-46.2741",,
+"292","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","25607",3525607,"João Ramalho","-22.2473","-50.7694",,
+"293","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","25706",3525706,"José Bonifácio","-21.0551","-49.6892","José Bonifácio",4
+"294","35","São Paulo","SP","04","Bauru","019","Lins","25805",3525805,"Júlio Mesquita","-22.0112","-49.7873",,
+"295","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","25854",3525854,"Jumirim","-23.0884","-47.7868","Jumirim",5
+"296","35","São Paulo","SP","12","Macro Metropolitana Paulista","047","Jundiaí","25904",3525904,"Jundiaí","-23.1852","-46.8974","Jundiaí",13
+"297","35","São Paulo","SP","08","Presidente Prudente","034","Dracena","26001",3526001,"Junqueirópolis","-21.5103","-51.4342",,
+"298","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","26100",3526100,"Juquiá","-24.3101","-47.6426",,
+"299","35","São Paulo","SP","15","Metropolitana de São Paulo","060","Itapecerica da Serra","26209",3526209,"Juquitiba","-23.9244","-47.0653",,
+"300","35","São Paulo","SP","13","Vale do Paraíba Paulista","053","Paraibuna/Paraitinga","26308",3526308,"Lagoinha","-23.0846","-45.1944","Lagoinha",1
+"301","35","São Paulo","SP","11","Itapetininga","043","Tatuí","26407",3526407,"Laranjal Paulista","-23.0506","-47.8375","Laranjal Paulista",17
+"302","35","São Paulo","SP","03","Araçatuba","017","Araçatuba","26506",3526506,"Lavínia","-21.1639","-51.0412",,
+"303","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","26605",3526605,"Lavrinhas","-22.57","-44.9024",,
+"304","35","São Paulo","SP","06","Piracicaba","027","Limeira","26704",3526704,"Leme","-22.1809","-47.3841","Leme",13
+"305","35","São Paulo","SP","04","Bauru","020","Bauru","26803",3526803,"Lençóis Paulista","-22.6027","-48.8037",,
+"306","35","São Paulo","SP","06","Piracicaba","027","Limeira","26902",3526902,"Limeira","-22.566","-47.397","Limeira",3
+"307","35","São Paulo","SP","07","Campinas","033","Amparo","27009",3527009,"Lindóia","-22.5226","-46.65",,
+"308","35","São Paulo","SP","04","Bauru","019","Lins","27108",3527108,"Lins","-21.6718","-49.7526",,
+"309","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","27207",3527207,"Lorena","-22.7334","-45.1197","Lorena",1
+"310","35","São Paulo","SP","03","Araçatuba","018","Birigui","27256",3527256,"Lourdes","-20.966","-50.2263",,
+"311","35","São Paulo","SP","12","Macro Metropolitana Paulista","047","Jundiaí","27306",3527306,"Louveira","-23.0856","-46.9484",,
+"312","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","27405",3527405,"Lucélia","-21.7182","-51.0215","Lucélia",1
+"313","35","São Paulo","SP","04","Bauru","020","Bauru","27504",3527504,"Lucianópolis","-22.4294","-49.522",,
+"314","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","27603",3527603,"Luís Antônio","-21.55","-47.7801",,
+"315","35","São Paulo","SP","03","Araçatuba","018","Birigui","27702",3527702,"Luiziânia","-21.6737","-50.3294",,
+"316","35","São Paulo","SP","09","Marília","038","Marília","27801",3527801,"Lupércio","-22.4146","-49.818",,
+"317","35","São Paulo","SP","10","Assis","039","Assis","27900",3527900,"Lutécia","-22.3384","-50.394",,
+"318","35","São Paulo","SP","04","Bauru","021","Jaú","28007",3528007,"Macatuba","-22.5002","-48.7102","Macatuba",2
+"319","35","São Paulo","SP","01","São José do Rio Preto","007","Nhandeara","28106",3528106,"Macaubal","-20.8022","-49.9687",,
+"320","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","28205",3528205,"Macedônia","-20.1444","-50.1973",,
+"321","35","São Paulo","SP","01","São José do Rio Preto","006","Auriflama","28304",3528304,"Magda","-20.6445","-50.2305",,
+"322","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","28403",3528403,"Mairinque","-23.5398","-47.185",,
+"323","35","São Paulo","SP","15","Metropolitana de São Paulo","058","Franco da Rocha","28502",3528502,"Mairiporã","-23.3171","-46.5897",,
+"324","35","São Paulo","SP","10","Assis","040","Ourinhos","28601",3528601,"Manduri","-23.0056","-49.3202",,
+"325","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","28700",3528700,"Marabá Paulista","-22.1068","-51.9617",,
+"326","35","São Paulo","SP","10","Assis","039","Assis","28809",3528809,"Maracaí","-22.6149","-50.6713",,
+"327","35","São Paulo","SP","01","São José do Rio Preto","008","Novo Horizonte","28858",3528858,"Marapoama","-21.2587","-49.13",,
+"328","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","28908",3528908,"Mariápolis","-21.7959","-51.1824",,
+"329","35","São Paulo","SP","09","Marília","038","Marília","29005",3529005,"Marília","-22.2171","-49.9501","Marília",1
+"330","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","29104",3529104,"Marinópolis","-20.4389","-50.8254",,
+"331","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","29203",3529203,"Martinópolis","-22.1462","-51.1709","Martinópolis",2
+"332","35","São Paulo","SP","05","Araraquara","024","Araraquara","29302",3529302,"Matão","-21.6025","-48.364",,
+"333","35","São Paulo","SP","15","Metropolitana de São Paulo","061","São Paulo","29401",3529401,"Mauá","-23.6677","-46.4613","Mauá",2
+"334","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","29500",3529500,"Mendonça","-21.1757","-49.5791","Mendonça",6
+"335","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","29609",3529609,"Meridiano","-20.3579","-50.1811",,
+"336","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","29658",3529658,"Mesópolis","-19.9684","-50.6326",,
+"337","35","São Paulo","SP","02","Ribeirão Preto","010","São Joaquim da Barra","29708",3529708,"Miguelópolis","-20.1796","-48.031",,
+"338","35","São Paulo","SP","04","Bauru","021","Jaú","29807",3529807,"Mineiros do Tietê","-22.412","-48.451","Mineiros do Tietê",1
+"339","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","30003",3530003,"Mira Estrela","-19.9789","-50.139",,
+"340","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","29906",3529906,"Miracatu","-24.2766","-47.4625","Miracatu",1
+"341","35","São Paulo","SP","03","Araçatuba","016","Andradina","30102",3530102,"Mirandópolis","-21.1313","-51.1035",,
+"342","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","30201",3530201,"Mirante do Paranapanema","-22.2904","-51.9084",,
+"343","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","30300",3530300,"Mirassol","-20.8169","-49.5206",,
+"344","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","30409",3530409,"Mirassolândia","-20.6179","-49.4617",,
+"345","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","30508",3530508,"Mococa","-21.4647","-47.0024","Mococa",5
+"346","35","São Paulo","SP","15","Metropolitana de São Paulo","062","Mogi das Cruzes","30607",3530607,"Mogi das Cruzes","-23.5208","-46.1854","Mogi das Cruzes",1
+"347","35","São Paulo","SP","07","Campinas","031","Mogi Mirim","30706",3530706,"Mogi Guaçu","-22.3675","-46.9428","Mogi Guaçu",4
+"348","35","São Paulo","SP","07","Campinas","031","Mogi Mirim","30805",3530805,"Mogi Mirim","-22.4332","-46.9532","Mogi Mirim",2
+"349","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","30904",3530904,"Mombuca","-22.9285","-47.559",,
+"350","35","São Paulo","SP","01","São José do Rio Preto","007","Nhandeara","31001",3531001,"Monções","-20.8509","-50.0975","Monções",1
+"351","35","São Paulo","SP","14","Litoral Sul Paulista","056","Itanhaém","31100",3531100,"Mongaguá","-24.0809","-46.6265",,
+"352","35","São Paulo","SP","07","Campinas","033","Amparo","31209",3531209,"Monte Alegre do Sul","-22.6817","-46.681",,
+"353","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","31308",3531308,"Monte Alto","-21.2655","-48.4971",,
+"354","35","São Paulo","SP","01","São José do Rio Preto","007","Nhandeara","31407",3531407,"Monte Aprazível","-20.768","-49.7184",,
+"355","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","31506",3531506,"Monte Azul Paulista","-20.9065","-48.6387",,
+"356","35","São Paulo","SP","08","Presidente Prudente","034","Dracena","31605",3531605,"Monte Castelo","-21.2981","-51.5679",,
+"357","35","São Paulo","SP","07","Campinas","032","Campinas","31803",3531803,"Monte Mor","-22.945","-47.3122","Monte Mor",6
+"358","35","São Paulo","SP","13","Vale do Paraíba Paulista","049","Campos do Jordão","31704",3531704,"Monteiro Lobato","-22.9544","-45.8407",,
+"359","35","São Paulo","SP","02","Ribeirão Preto","010","São Joaquim da Barra","31902",3531902,"Morro Agudo","-20.7288","-48.0581","Morro Agudo",3
+"360","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","32009",3532009,"Morungaba","-22.8811","-46.7896",,
+"361","35","São Paulo","SP","05","Araraquara","024","Araraquara","32058",3532058,"Motuca","-21.5103","-48.1538",,
+"362","35","São Paulo","SP","03","Araçatuba","016","Andradina","32108",3532108,"Murutinga do Sul","-20.9908","-51.2774",,
+"363","35","São Paulo","SP","10","Assis","039","Assis","32157",3532157,"Nantes","-22.6156","-51.24",,
+"364","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","32207",3532207,"Narandiba","-22.4057","-51.5274",,
+"365","35","São Paulo","SP","13","Vale do Paraíba Paulista","053","Paraibuna/Paraitinga","32306",3532306,"Natividade da Serra","-23.3707","-45.4468",,
+"366","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","32405",3532405,"Nazaré Paulista","-23.1747","-46.3983",,
+"367","35","São Paulo","SP","01","São José do Rio Preto","007","Nhandeara","32504",3532504,"Neves Paulista","-20.843","-49.6358",,
+"368","35","São Paulo","SP","01","São José do Rio Preto","007","Nhandeara","32603",3532603,"Nhandeara","-20.6945","-50.0436",,
+"369","35","São Paulo","SP","01","São José do Rio Preto","007","Nhandeara","32702",3532702,"Nipoã","-20.9114","-49.7833",,
+"370","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","32801",3532801,"Nova Aliança","-21.0156","-49.4986",,
+"371","35","São Paulo","SP","11","Itapetininga","041","Itapeva","32827",3532827,"Nova Campina","-24.1224","-48.9022",,
+"372","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","32843",3532843,"Nova Canaã Paulista","-20.3836","-50.9483",,
+"373","35","São Paulo","SP","01","São José do Rio Preto","006","Auriflama","32868",3532868,"Nova Castilho","-20.7615","-50.3477",,
+"374","35","São Paulo","SP","05","Araraquara","024","Araraquara","32900",3532900,"Nova Europa","-21.7765","-48.5705",,
+"375","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","33007",3533007,"Nova Granada","-20.5321","-49.3123",,
+"376","35","São Paulo","SP","08","Presidente Prudente","034","Dracena","33106",3533106,"Nova Guataporanga","-21.332","-51.6447",,
+"377","35","São Paulo","SP","03","Araçatuba","016","Andradina","33205",3533205,"Nova Independência","-21.1026","-51.4905",,
+"378","35","São Paulo","SP","01","São José do Rio Preto","006","Auriflama","33304",3533304,"Nova Luzitânia","-20.856","-50.2617",,
+"379","35","São Paulo","SP","07","Campinas","032","Campinas","33403",3533403,"Nova Odessa","-22.7832","-47.2941",,
+"380","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","33254",3533254,"Novais","-20.9893","-48.9141",,
+"381","35","São Paulo","SP","01","São José do Rio Preto","008","Novo Horizonte","33502",3533502,"Novo Horizonte","-21.4651","-49.2234","Novo Horizonte",2
+"382","35","São Paulo","SP","02","Ribeirão Preto","010","São Joaquim da Barra","33601",3533601,"Nuporanga","-20.7296","-47.7429",,
+"383","35","São Paulo","SP","09","Marília","038","Marília","33700",3533700,"Ocauçu","-22.438","-49.922",,
+"384","35","São Paulo","SP","10","Assis","040","Ourinhos","33809",3533809,"Óleo","-22.9435","-49.3419",,
+"385","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","33908",3533908,"Olímpia","-20.7366","-48.9106",,
+"386","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","34005",3534005,"Onda Verde","-20.6042","-49.2929",,
+"387","35","São Paulo","SP","09","Marília","038","Marília","34104",3534104,"Oriente","-22.1549","-50.0971",,
+"388","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","34203",3534203,"Orindiúva","-20.1861","-49.3464",,
+"389","35","São Paulo","SP","02","Ribeirão Preto","010","São Joaquim da Barra","34302",3534302,"Orlândia","-20.7169","-47.8852",,
+"390","35","São Paulo","SP","15","Metropolitana de São Paulo","057","Osasco","34401",3534401,"Osasco","-23.5324","-46.7916",,
+"391","35","São Paulo","SP","09","Marília","038","Marília","34500",3534500,"Oscar Bressane","-22.3149","-50.2811",,
+"392","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","34609",3534609,"Osvaldo Cruz","-21.7968","-50.8793",,
+"393","35","São Paulo","SP","10","Assis","040","Ourinhos","34708",3534708,"Ourinhos","-22.9797","-49.8697","Ourinhos",20
+"394","35","São Paulo","SP","08","Presidente Prudente","034","Dracena","34807",3534807,"Ouro Verde","-21.4872","-51.7024","Ouro Verde",2
+"395","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","34757",3534757,"Ouroeste","-20.0061","-50.3768",,
+"396","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","34906",3534906,"Pacaembu","-21.5627","-51.2654",,
+"397","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","35002",3535002,"Palestina","-20.39","-49.4309",,
+"398","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","35101",3535101,"Palmares Paulista","-21.0854","-48.8037",,
+"399","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","35200",3535200,"Palmeira d'Oeste","-20.4148","-50.7632",,
+"400","35","São Paulo","SP","10","Assis","039","Assis","35309",3535309,"Palmital","-22.7858","-50.218","Palmital",3
+"401","35","São Paulo","SP","08","Presidente Prudente","034","Dracena","35408",3535408,"Panorama","-21.354","-51.8562","Panorama",82
+"402","35","São Paulo","SP","10","Assis","039","Assis","35507",3535507,"Paraguaçu Paulista","-22.4114","-50.5732","Paraguaçu Paulista",2
+"403","35","São Paulo","SP","13","Vale do Paraíba Paulista","053","Paraibuna/Paraitinga","35606",3535606,"Paraibuna","-23.3872","-45.6639","Paraibuna",4
+"404","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","35705",3535705,"Paraíso","-21.0159","-48.7761",,
+"405","35","São Paulo","SP","04","Bauru","022","Avaré","35804",3535804,"Paranapanema","-23.3862","-48.7214",,
+"406","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","35903",3535903,"Paranapuã","-20.1048","-50.5886",,
+"407","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","36000",3536000,"Parapuã","-21.7792","-50.7949","Parapuã",1
+"408","35","São Paulo","SP","04","Bauru","023","Botucatu","36109",3536109,"Pardinho","-23.0841","-48.3679",,
+"409","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","36208",3536208,"Pariquera-Açu","-24.7147","-47.8742",,
+"410","35","São Paulo","SP","01","São José do Rio Preto","003","Votuporanga","36257",3536257,"Parisi","-20.3034","-50.0163",,
+"411","35","São Paulo","SP","02","Ribeirão Preto","012","Franca","36307",3536307,"Patrocínio Paulista","-20.6384","-47.2801",,
+"412","35","São Paulo","SP","08","Presidente Prudente","034","Dracena","36406",3536406,"Paulicéia","-21.3153","-51.8321","Paulicéia",20
+"413","35","São Paulo","SP","07","Campinas","032","Campinas","36505",3536505,"Paulínia","-22.7542","-47.1488",,
+"414","35","São Paulo","SP","04","Bauru","020","Bauru","36570",3536570,"Paulistânia","-22.5768","-49.4008",,
+"415","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","36604",3536604,"Paulo de Faria","-20.0296","-49.4","Paulo de Faria",1
+"416","35","São Paulo","SP","04","Bauru","021","Jaú","36703",3536703,"Pederneiras","-22.3511","-48.7781","Pederneiras",6
+"417","35","São Paulo","SP","07","Campinas","033","Amparo","36802",3536802,"Pedra Bela","-22.7902","-46.4455","Pedra Bela",4
+"418","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","36901",3536901,"Pedranópolis","-20.2474","-50.1129",,
+"419","35","São Paulo","SP","02","Ribeirão Preto","012","Franca","37008",3537008,"Pedregulho","-20.2535","-47.4775",,
+"420","35","São Paulo","SP","07","Campinas","032","Campinas","37107",3537107,"Pedreira","-22.7413","-46.8948","Pedreira",3
+"421","35","São Paulo","SP","10","Assis","039","Assis","37156",3537156,"Pedrinhas Paulista","-22.8174","-50.7933",,
+"422","35","São Paulo","SP","14","Litoral Sul Paulista","056","Itanhaém","37206",3537206,"Pedro de Toledo","-24.2764","-47.2354",,
+"423","35","São Paulo","SP","03","Araçatuba","018","Birigui","37305",3537305,"Penápolis","-21.4148","-50.0769","Penápolis",23
+"424","35","São Paulo","SP","03","Araçatuba","016","Andradina","37404",3537404,"Pereira Barreto","-20.6368","-51.1123","Pereira Barreto",1
+"425","35","São Paulo","SP","11","Itapetininga","043","Tatuí","37503",3537503,"Pereiras","-23.0804","-47.972","Pereiras",3
+"426","35","São Paulo","SP","14","Litoral Sul Paulista","056","Itanhaém","37602",3537602,"Peruíbe","-24.312","-47.0012",,
+"427","35","São Paulo","SP","03","Araçatuba","018","Birigui","37701",3537701,"Piacatu","-21.5921","-50.6003",,
+"428","35","São Paulo","SP","12","Macro Metropolitana Paulista","045","Piedade","37800",3537800,"Piedade","-23.7139","-47.4256","Piedade",3
+"429","35","São Paulo","SP","12","Macro Metropolitana Paulista","045","Piedade","37909",3537909,"Pilar do Sul","-23.8077","-47.7222","Pilar do Sul",4
+"430","35","São Paulo","SP","13","Vale do Paraíba Paulista","050","São José dos Campos","38006",3538006,"Pindamonhangaba","-22.9246","-45.4613",,
+"431","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","38105",3538105,"Pindorama","-21.1853","-48.9086",,
+"432","35","São Paulo","SP","07","Campinas","033","Amparo","38204",3538204,"Pinhalzinho","-22.7811","-46.5897","Pinhalzinho",3
+"433","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","38303",3538303,"Piquerobi","-21.8747","-51.7282",,
+"434","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","38501",3538501,"Piquete","-22.6069","-45.1869",,
+"435","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","38600",3538600,"Piracaia","-23.0525","-46.3594","Piracaia",14
+"436","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","38709",3538709,"Piracicaba","-22.7338","-47.6476","Piracicaba",26
+"437","35","São Paulo","SP","10","Assis","040","Ourinhos","38808",3538808,"Piraju","-23.1981","-49.3803","Piraju",1
+"438","35","São Paulo","SP","04","Bauru","020","Bauru","38907",3538907,"Pirajuí","-21.999","-49.4608",,
+"439","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","39004",3539004,"Pirangi","-21.0886","-48.6607",,
+"440","35","São Paulo","SP","15","Metropolitana de São Paulo","057","Osasco","39103",3539103,"Pirapora do Bom Jesus","-23.3965","-46.9991",,
+"441","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","39202",3539202,"Pirapozinho","-22.2711","-51.4976",,
+"442","35","São Paulo","SP","07","Campinas","029","Pirassununga","39301",3539301,"Pirassununga","-21.996","-47.4257",,
+"443","35","São Paulo","SP","04","Bauru","020","Bauru","39400",3539400,"Piratininga","-22.4142","-49.1339",,
+"444","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","39509",3539509,"Pitangueiras","-21.0132","-48.221","Pitangueiras",2
+"445","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","39608",3539608,"Planalto","-21.0342","-49.933","Planalto",5
+"446","35","São Paulo","SP","10","Assis","039","Assis","39707",3539707,"Platina","-22.6371","-50.2104",,
+"447","35","São Paulo","SP","15","Metropolitana de São Paulo","062","Mogi das Cruzes","39806",3539806,"Poá","-23.5333","-46.3473",,
+"448","35","São Paulo","SP","01","São José do Rio Preto","007","Nhandeara","39905",3539905,"Poloni","-20.7829","-49.8258",,
+"449","35","São Paulo","SP","09","Marília","038","Marília","40002",3540002,"Pompéia","-22.107","-50.176",,
+"450","35","São Paulo","SP","04","Bauru","020","Bauru","40101",3540101,"Pongaí","-21.7396","-49.3604",,
+"451","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","40200",3540200,"Pontal","-21.0216","-48.0423",,
+"452","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","40259",3540259,"Pontalinda","-20.4396","-50.5258",,
+"453","35","São Paulo","SP","01","São José do Rio Preto","003","Votuporanga","40309",3540309,"Pontes Gestal","-20.1727","-49.7064",,
+"454","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","40408",3540408,"Populina","-19.9453","-50.538",,
+"455","35","São Paulo","SP","11","Itapetininga","043","Tatuí","40507",3540507,"Porangaba","-23.1761","-48.1195","Porangaba",2
+"456","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","40606",3540606,"Porto Feliz","-23.2093","-47.5251","Porto Feliz",5
+"457","35","São Paulo","SP","07","Campinas","029","Pirassununga","40705",3540705,"Porto Ferreira","-21.8498","-47.487","Porto Ferreira",20
+"458","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","40754",3540754,"Potim","-22.8343","-45.2552",,
+"459","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","40804",3540804,"Potirendaba","-21.0428","-49.3815",,
+"460","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","40853",3540853,"Pracinha","-21.8496","-51.0868",,
+"461","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","40903",3540903,"Pradópolis","-21.3626","-48.0679",,
+"462","35","São Paulo","SP","15","Metropolitana de São Paulo","063","Santos","41000",3541000,"Praia Grande","-24.0084","-46.4121",,
+"463","35","São Paulo","SP","04","Bauru","023","Botucatu","41059",3541059,"Pratânia","-22.8112","-48.6636",,
+"464","35","São Paulo","SP","04","Bauru","020","Bauru","41109",3541109,"Presidente Alves","-22.0999","-49.4381",,
+"465","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","41208",3541208,"Presidente Bernardes","-22.0082","-51.5565",,
+"466","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","41307",3541307,"Presidente Epitácio","-21.7651","-52.1111","Presidente Epitácio",9
+"467","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","41406",3541406,"Presidente Prudente","-22.1207","-51.3925","Presidente Prudente",1
+"468","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","41505",3541505,"Presidente Venceslau","-21.8732","-51.8447",,
+"469","35","São Paulo","SP","04","Bauru","019","Lins","41604",3541604,"Promissão","-21.5356","-49.8599","Promissão",2
+"470","35","São Paulo","SP","11","Itapetininga","043","Tatuí","41653",3541653,"Quadra","-23.2993","-48.0547",,
+"471","35","São Paulo","SP","10","Assis","039","Assis","41703",3541703,"Quatá","-22.2456","-50.6966",,
+"472","35","São Paulo","SP","09","Marília","037","Tupã","41802",3541802,"Queiroz","-21.7969","-50.2415",,
+"473","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","41901",3541901,"Queluz","-22.5312","-44.7781",,
+"474","35","São Paulo","SP","09","Marília","037","Tupã","42008",3542008,"Quintana","-22.0692","-50.307",,
+"475","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","42107",3542107,"Rafard","-23.0105","-47.5318",,
+"476","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","42206",3542206,"Rancharia","-22.2269","-50.893",,
+"477","35","São Paulo","SP","13","Vale do Paraíba Paulista","053","Paraibuna/Paraitinga","42305",3542305,"Redenção da Serra","-23.2638","-45.5422",,
+"478","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","42404",3542404,"Regente Feijó","-22.2181","-51.3055","Regente Feijó",1
+"479","35","São Paulo","SP","04","Bauru","020","Bauru","42503",3542503,"Reginópolis","-21.8914","-49.2268",,
+"480","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","42602",3542602,"Registro","-24.4979","-47.8449","Registro",2
+"481","35","São Paulo","SP","02","Ribeirão Preto","012","Franca","42701",3542701,"Restinga","-20.6056","-47.4833",,
+"482","35","São Paulo","SP","11","Itapetininga","044","Capão Bonito","42800",3542800,"Ribeira","-24.6517","-49.0044",,
+"483","35","São Paulo","SP","05","Araraquara","025","São Carlos","42909",3542909,"Ribeirão Bonito","-22.0685","-48.182",,
+"484","35","São Paulo","SP","11","Itapetininga","044","Capão Bonito","43006",3543006,"Ribeirão Branco","-24.2206","-48.7635",,
+"485","35","São Paulo","SP","02","Ribeirão Preto","012","Franca","43105",3543105,"Ribeirão Corrente","-20.4579","-47.5904",,
+"486","35","São Paulo","SP","10","Assis","040","Ourinhos","43204",3543204,"Ribeirão do Sul","-22.789","-49.933","Ribeirão do Sul",2
+"487","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","43238",3543238,"Ribeirão dos Índios","-21.8382","-51.6103",,
+"488","35","São Paulo","SP","11","Itapetininga","044","Capão Bonito","43253",3543253,"Ribeirão Grande","-24.1011","-48.3679",,
+"489","35","São Paulo","SP","15","Metropolitana de São Paulo","061","São Paulo","43303",3543303,"Ribeirão Pires","-23.7067","-46.4058",,
+"490","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","43402",3543402,"Ribeirão Preto","-21.1699","-47.8099","Ribeirão Preto",2
+"491","35","São Paulo","SP","02","Ribeirão Preto","012","Franca","43600",3543600,"Rifaina","-20.0803","-47.4291",,
+"492","35","São Paulo","SP","05","Araraquara","024","Araraquara","43709",3543709,"Rincão","-21.5894","-48.0728","Rincão",11
+"493","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","43808",3543808,"Rinópolis","-21.7284","-50.7239",,
+"494","35","São Paulo","SP","06","Piracicaba","026","Rio Claro","43907",3543907,"Rio Claro","-22.3984","-47.5546","Rio Claro",23
+"495","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","44004",3544004,"Rio das Pedras","-22.8417","-47.6047",,
+"496","35","São Paulo","SP","15","Metropolitana de São Paulo","061","São Paulo","44103",3544103,"Rio Grande da Serra","-23.7437","-46.3971","Rio Grande da Serra",1
+"497","35","São Paulo","SP","01","São José do Rio Preto","003","Votuporanga","44202",3544202,"Riolândia","-19.9868","-49.6836",,
+"498","35","São Paulo","SP","11","Itapetininga","041","Itapeva","43501",3543501,"Riversul","-23.829","-49.429",,
+"499","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","44251",3544251,"Rosana","-22.5782","-53.0603",,
+"500","35","São Paulo","SP","13","Vale do Paraíba Paulista","051","Guaratinguetá","44301",3544301,"Roseira","-22.8938","-45.307",,
+"501","35","São Paulo","SP","03","Araçatuba","017","Araçatuba","44400",3544400,"Rubiácea","-21.3006","-50.7296",,
+"502","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","44509",3544509,"Rubinéia","-20.1759","-51.007",,
+"503","35","São Paulo","SP","04","Bauru","019","Lins","44608",3544608,"Sabino","-21.4593","-49.5755",,
+"504","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","44707",3544707,"Sagres","-21.8823","-50.9594",,
+"505","35","São Paulo","SP","01","São José do Rio Preto","008","Novo Horizonte","44806",3544806,"Sales","-21.3427","-49.4897","Sales",1
+"506","35","São Paulo","SP","02","Ribeirão Preto","010","São Joaquim da Barra","44905",3544905,"Sales Oliveira","-20.7696","-47.8369",,
+"507","35","São Paulo","SP","15","Metropolitana de São Paulo","062","Mogi das Cruzes","45001",3545001,"Salesópolis","-23.5288","-45.8465",,
+"508","35","São Paulo","SP","08","Presidente Prudente","035","Adamantina","45100",3545100,"Salmourão","-21.6267","-50.8614",,
+"509","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","45159",3545159,"Saltinho","-22.8442","-47.6754","Saltinho",3
+"510","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","45209",3545209,"Salto","-23.1996","-47.2931","Salto",7
+"511","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","45308",3545308,"Salto de Pirapora","-23.6474","-47.5743","Salto de Pirapora",2
+"512","35","São Paulo","SP","10","Assis","040","Ourinhos","45407",3545407,"Salto Grande","-22.8894","-49.9831",,
+"513","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","45506",3545506,"Sandovalina","-22.4551","-51.7648",,
+"514","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","45605",3545605,"Santa Adélia","-21.2427","-48.8063",,
+"515","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","45704",3545704,"Santa Albertina","-20.0311","-50.7297",,
+"516","35","São Paulo","SP","07","Campinas","032","Campinas","45803",3545803,"Santa Bárbara d'Oeste","-22.7553","-47.4143","Santa Bárbara d'Oeste",1
+"517","35","São Paulo","SP","13","Vale do Paraíba Paulista","050","São José dos Campos","46009",3546009,"Santa Branca","-23.3933","-45.8875",,
+"518","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","46108",3546108,"Santa Clara d'Oeste","-20.09","-50.9491",,
+"519","35","São Paulo","SP","06","Piracicaba","027","Limeira","46207",3546207,"Santa Cruz da Conceição","-22.1405","-47.4512","Santa Cruz da Conceição",7
+"520","35","São Paulo","SP","02","Ribeirão Preto","015","Batatais","46256",3546256,"Santa Cruz da Esperança","-21.2951","-47.4304","Santa Cruz da Esperança",2
+"521","35","São Paulo","SP","07","Campinas","029","Pirassununga","46306",3546306,"Santa Cruz das Palmeiras","-21.8235","-47.248","Santa Cruz das Palmeiras",2
+"522","35","São Paulo","SP","10","Assis","040","Ourinhos","46405",3546405,"Santa Cruz do Rio Pardo","-22.8988","-49.6354",,
+"523","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","46504",3546504,"Santa Ernestina","-21.4618","-48.3953",,
+"524","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","46603",3546603,"Santa Fé do Sul","-20.2083","-50.932",,
+"525","35","São Paulo","SP","06","Piracicaba","027","Limeira","46702",3546702,"Santa Gertrudes","-22.4572","-47.5272","Santa Gertrudes",15
+"526","35","São Paulo","SP","15","Metropolitana de São Paulo","059","Guarulhos","46801",3546801,"Santa Isabel","-23.3172","-46.2237",,
+"527","35","São Paulo","SP","05","Araraquara","024","Araraquara","46900",3546900,"Santa Lúcia","-21.685","-48.0885",,
+"528","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","47007",3547007,"Santa Maria da Serra","-22.5661","-48.1593",,
+"529","35","São Paulo","SP","08","Presidente Prudente","034","Dracena","47106",3547106,"Santa Mercedes","-21.3495","-51.7564",,
+"530","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","47502",3547502,"Santa Rita do Passa Quatro","-21.7083","-47.478","Santa Rita do Passa Quatro",2
+"531","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","47403",3547403,"Santa Rita d'Oeste","-20.1414","-50.8358",,
+"532","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","47601",3547601,"Santa Rosa de Viterbo","-21.4776","-47.3622","Santa Rosa de Viterbo",2
+"533","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","47650",3547650,"Santa Salete","-20.2429","-50.6887",,
+"534","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","47205",3547205,"Santana da Ponte Pensa","-20.2523","-50.8014",,
+"535","35","São Paulo","SP","15","Metropolitana de São Paulo","057","Osasco","47304",3547304,"Santana de Parnaíba","-23.4439","-46.9178",,
+"536","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","47700",3547700,"Santo Anastácio","-21.9747","-51.6527",,
+"537","35","São Paulo","SP","15","Metropolitana de São Paulo","061","São Paulo","47809",3547809,"Santo André","-23.6737","-46.5432",,
+"538","35","São Paulo","SP","02","Ribeirão Preto","015","Batatais","47908",3547908,"Santo Antônio da Alegria","-21.0864","-47.1464",,
+"539","35","São Paulo","SP","07","Campinas","031","Mogi Mirim","48005",3548005,"Santo Antônio de Posse","-22.6029","-46.9192","Santo Antônio de Posse",1
+"540","35","São Paulo","SP","03","Araçatuba","017","Araçatuba","48054",3548054,"Santo Antônio do Aracanguá","-20.9331","-50.498","Santo Antônio do Aracanguá",1
+"541","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","48104",3548104,"Santo Antônio do Jardim","-22.1121","-46.6845","Santo Antônio do Jardim",17
+"542","35","São Paulo","SP","13","Vale do Paraíba Paulista","049","Campos do Jordão","48203",3548203,"Santo Antônio do Pinhal","-22.827","-45.663",,
+"543","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","48302",3548302,"Santo Expedito","-21.8467","-51.3929",,
+"544","35","São Paulo","SP","03","Araçatuba","018","Birigui","48401",3548401,"Santópolis do Aguapeí","-21.6376","-50.5044","Santópolis do Aguapeí",2
+"545","35","São Paulo","SP","15","Metropolitana de São Paulo","063","Santos","48500",3548500,"Santos","-23.9535","-46.335",,
+"546","35","São Paulo","SP","13","Vale do Paraíba Paulista","049","Campos do Jordão","48609",3548609,"São Bento do Sapucaí","-22.6837","-45.7287","São Bento do Sapucaí",1
+"547","35","São Paulo","SP","15","Metropolitana de São Paulo","061","São Paulo","48708",3548708,"São Bernardo do Campo","-23.6914","-46.5646","São Bernardo do Campo",1
+"548","35","São Paulo","SP","15","Metropolitana de São Paulo","061","São Paulo","48807",3548807,"São Caetano do Sul","-23.6229","-46.5548","São Caetano do Sul",1
+"549","35","São Paulo","SP","05","Araraquara","025","São Carlos","48906",3548906,"São Carlos","-22.0174","-47.886",,
+"550","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","49003",3549003,"São Francisco","-20.3623","-50.6952",,
+"551","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","49102",3549102,"São João da Boa Vista","-21.9707","-46.7944","São João da Boa Vista",11
+"552","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","49201",3549201,"São João das Duas Pontes","-20.3879","-50.3792",,
+"553","35","São Paulo","SP","01","São José do Rio Preto","006","Auriflama","49250",3549250,"São João de Iracema","-20.5111","-50.3561",,
+"554","35","São Paulo","SP","08","Presidente Prudente","034","Dracena","49300",3549300,"São João do Pau d'Alho","-21.2662","-51.6672",,
+"555","35","São Paulo","SP","02","Ribeirão Preto","010","São Joaquim da Barra","49409",3549409,"São Joaquim da Barra","-20.5812","-47.8593",,
+"556","35","São Paulo","SP","02","Ribeirão Preto","012","Franca","49508",3549508,"São José da Bela Vista","-20.5935","-47.6424",,
+"557","35","São Paulo","SP","13","Vale do Paraíba Paulista","052","Bananal","49607",3549607,"São José do Barreiro","-22.6414","-44.5774",,
+"558","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","49706",3549706,"São José do Rio Pardo","-21.5953","-46.8873","São José do Rio Pardo",3
+"559","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","49805",3549805,"São José do Rio Preto","-20.8113","-49.3758",,
+"560","35","São Paulo","SP","13","Vale do Paraíba Paulista","050","São José dos Campos","49904",3549904,"São José dos Campos","-23.1896","-45.8841","São José dos Campos",1
+"561","35","São Paulo","SP","15","Metropolitana de São Paulo","060","Itapecerica da Serra","49953",3549953,"São Lourenço da Serra","-23.8491","-46.9432",,
+"562","35","São Paulo","SP","13","Vale do Paraíba Paulista","053","Paraibuna/Paraitinga","50001",3550001,"São Luiz do Paraitinga","-23.222","-45.3109",,
+"563","35","São Paulo","SP","04","Bauru","023","Botucatu","50100",3550100,"São Manuel","-22.7321","-48.5723",,
+"564","35","São Paulo","SP","12","Macro Metropolitana Paulista","045","Piedade","50209",3550209,"São Miguel Arcanjo","-23.8782","-47.9935",,
+"565","35","São Paulo","SP","15","Metropolitana de São Paulo","061","São Paulo","50308",3550308,"São Paulo","-23.5329","-46.6395","São Paulo",15
+"566","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","50407",3550407,"São Pedro","-22.5483","-47.9096","São Pedro",2
+"567","35","São Paulo","SP","10","Assis","040","Ourinhos","50506",3550506,"São Pedro do Turvo","-22.7453","-49.7428",,
+"568","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","50605",3550605,"São Roque","-23.5226","-47.1357",,
+"569","35","São Paulo","SP","13","Vale do Paraíba Paulista","054","Caraguatatuba","50704",3550704,"São Sebastião","-23.7951","-45.4143",,
+"570","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","50803",3550803,"São Sebastião da Grama","-21.7041","-46.8208","São Sebastião da Grama",1
+"571","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","50902",3550902,"São Simão","-21.4732","-47.5518",,
+"572","35","São Paulo","SP","15","Metropolitana de São Paulo","063","Santos","51009",3551009,"São Vicente","-23.9574","-46.3883",,
+"573","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","51108",3551108,"Sarapuí","-23.6397","-47.8249",,
+"574","35","São Paulo","SP","10","Assis","040","Ourinhos","51207",3551207,"Sarutaiá","-23.2721","-49.4763",,
+"575","35","São Paulo","SP","01","São José do Rio Preto","007","Nhandeara","51306",3551306,"Sebastianópolis do Sul","-20.6523","-49.925",,
+"576","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","51405",3551405,"Serra Azul","-21.3074","-47.5602",,
+"577","35","São Paulo","SP","07","Campinas","033","Amparo","51603",3551603,"Serra Negra","-22.6139","-46.7033","Serra Negra",1
+"578","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","51504",3551504,"Serrana","-21.2043","-47.5952",,
+"579","35","São Paulo","SP","02","Ribeirão Preto","014","Ribeirão Preto","51702",3551702,"Sertãozinho","-21.1316","-47.9875",,
+"580","35","São Paulo","SP","14","Litoral Sul Paulista","055","Registro","51801",3551801,"Sete Barras","-24.382","-47.9279",,
+"581","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","51900",3551900,"Severínia","-20.8108","-48.8054",,
+"582","35","São Paulo","SP","13","Vale do Paraíba Paulista","052","Bananal","52007",3552007,"Silveiras","-22.6638","-44.8522",,
+"583","35","São Paulo","SP","07","Campinas","033","Amparo","52106",3552106,"Socorro","-22.5903","-46.5251","Socorro",21
+"584","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","52205",3552205,"Sorocaba","-23.4969","-47.4451","Sorocaba",5
+"585","35","São Paulo","SP","03","Araçatuba","016","Andradina","52304",3552304,"Sud Mennucci","-20.6872","-50.9238",,
+"586","35","São Paulo","SP","07","Campinas","032","Campinas","52403",3552403,"Sumaré","-22.8204","-47.2728",,
+"587","35","São Paulo","SP","03","Araçatuba","016","Andradina","52551",3552551,"Suzanápolis","-20.4981","-51.0268",,
+"588","35","São Paulo","SP","15","Metropolitana de São Paulo","062","Mogi das Cruzes","52502",3552502,"Suzano","-23.5448","-46.3112","Suzano",2
+"589","35","São Paulo","SP","01","São José do Rio Preto","005","Catanduva","52601",3552601,"Tabapuã","-20.9602","-49.0307",,
+"590","35","São Paulo","SP","05","Araraquara","024","Araraquara","52700",3552700,"Tabatinga","-21.7239","-48.6896",,
+"591","35","São Paulo","SP","15","Metropolitana de São Paulo","060","Itapecerica da Serra","52809",3552809,"Taboão da Serra","-23.6019","-46.7526","Taboão da Serra",1
+"592","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","52908",3552908,"Taciba","-22.3866","-51.2882",,
+"593","35","São Paulo","SP","10","Assis","040","Ourinhos","53005",3553005,"Taguaí","-23.4452","-49.4024",,
+"594","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","53104",3553104,"Taiaçu","-21.1431","-48.5112",,
+"595","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","53203",3553203,"Taiúva","-21.1223","-48.4528",,
+"596","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","53302",3553302,"Tambaú","-21.7029","-47.2703","Tambaú",64
+"597","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","53401",3553401,"Tanabi","-20.6228","-49.6563",,
+"598","35","São Paulo","SP","12","Macro Metropolitana Paulista","045","Piedade","53500",3553500,"Tapiraí","-23.9612","-47.5062","Tapiraí",1
+"599","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","53609",3553609,"Tapiratiba","-21.4713","-46.7448",,
+"600","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","53658",3553658,"Taquaral","-21.0737","-48.4126",,
+"601","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","53708",3553708,"Taquaritinga","-21.4049","-48.5103",,
+"602","35","São Paulo","SP","11","Itapetininga","041","Itapeva","53807",3553807,"Taquarituba","-23.5307","-49.241","Taquarituba",6
+"603","35","São Paulo","SP","11","Itapetininga","041","Itapeva","53856",3553856,"Taquarivaí","-23.9211","-48.6948",,
+"604","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","53906",3553906,"Tarabai","-22.3016","-51.5621",,
+"605","35","São Paulo","SP","10","Assis","039","Assis","53955",3553955,"Tarumã","-22.7429","-50.5786",,
+"606","35","São Paulo","SP","11","Itapetininga","043","Tatuí","54003",3554003,"Tatuí","-23.3487","-47.8461","Tatuí",35
+"607","35","São Paulo","SP","13","Vale do Paraíba Paulista","050","São José dos Campos","54102",3554102,"Taubaté","-23.0104","-45.5593","Taubaté",2
+"608","35","São Paulo","SP","10","Assis","040","Ourinhos","54201",3554201,"Tejupá","-23.3425","-49.3722",,
+"609","35","São Paulo","SP","08","Presidente Prudente","036","Presidente Prudente","54300",3554300,"Teodoro Sampaio","-22.5299","-52.1682","Teodoro Sampaio",5
+"610","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","54409",3554409,"Terra Roxa","-20.787","-48.3314",,
+"611","35","São Paulo","SP","06","Piracicaba","028","Piracicaba","54508",3554508,"Tietê","-23.1101","-47.7164","Tietê",2
+"612","35","São Paulo","SP","10","Assis","040","Ourinhos","54607",3554607,"Timburi","-23.2057","-49.6096",,
+"613","35","São Paulo","SP","11","Itapetininga","043","Tatuí","54656",3554656,"Torre de Pedra","-23.2462","-48.1955",,
+"614","35","São Paulo","SP","06","Piracicaba","026","Rio Claro","54706",3554706,"Torrinha","-22.4237","-48.1731",,
+"615","35","São Paulo","SP","05","Araraquara","024","Araraquara","54755",3554755,"Trabiju","-22.0388","-48.3342",,
+"616","35","São Paulo","SP","13","Vale do Paraíba Paulista","050","São José dos Campos","54805",3554805,"Tremembé","-22.9571","-45.5475","Tremembé",4
+"617","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","54904",3554904,"Três Fronteiras","-20.2344","-50.8905","Três Fronteiras",1
+"618","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","54953",3554953,"Tuiuti","-22.8193","-46.6937",,
+"619","35","São Paulo","SP","09","Marília","037","Tupã","55000",3555000,"Tupã","-21.9335","-50.5191","Tupã",2
+"620","35","São Paulo","SP","08","Presidente Prudente","034","Dracena","55109",3555109,"Tupi Paulista","-21.3825","-51.575","Tupi Paulista",2
+"621","35","São Paulo","SP","03","Araçatuba","018","Birigui","55208",3555208,"Turiúba","-20.9428","-50.1135",,
+"622","35","São Paulo","SP","01","São José do Rio Preto","002","Fernandópolis","55307",3555307,"Turmalina","-20.0486","-50.4792",,
+"623","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","55356",3555356,"Ubarana","-21.165","-49.7198","Ubarana",3
+"624","35","São Paulo","SP","13","Vale do Paraíba Paulista","054","Caraguatatuba","55406",3555406,"Ubatuba","-23.4332","-45.0834",,
+"625","35","São Paulo","SP","04","Bauru","020","Bauru","55505",3555505,"Ubirajara","-22.5272","-49.6613",,
+"626","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","55604",3555604,"Uchoa","-20.9511","-49.1713","Uchoa",1
+"627","35","São Paulo","SP","01","São José do Rio Preto","007","Nhandeara","55703",3555703,"União Paulista","-20.8862","-49.9025",,
+"628","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","55802",3555802,"Urânia","-20.2455","-50.6455",,
+"629","35","São Paulo","SP","04","Bauru","020","Bauru","55901",3555901,"Uru","-21.7866","-49.2848",,
+"630","35","São Paulo","SP","01","São José do Rio Preto","008","Novo Horizonte","56008",3556008,"Urupês","-21.2032","-49.2931","Urupês",1
+"631","35","São Paulo","SP","01","São José do Rio Preto","003","Votuporanga","56107",3556107,"Valentim Gentil","-20.4217","-50.0889",,
+"632","35","São Paulo","SP","07","Campinas","032","Campinas","56206",3556206,"Valinhos","-22.9698","-46.9974","Valinhos",5
+"633","35","São Paulo","SP","03","Araçatuba","017","Araçatuba","56305",3556305,"Valparaíso","-21.2229","-50.8699",,
+"634","35","São Paulo","SP","12","Macro Metropolitana Paulista","048","Bragança Paulista","56354",3556354,"Vargem","-22.887","-46.4124","Vargem",18
+"635","35","São Paulo","SP","07","Campinas","030","São João da Boa Vista","56404",3556404,"Vargem Grande do Sul","-21.8322","-46.8913","Vargem Grande do Sul",39
+"636","35","São Paulo","SP","15","Metropolitana de São Paulo","060","Itapecerica da Serra","56453",3556453,"Vargem Grande Paulista","-23.5993","-47.022",,
+"637","35","São Paulo","SP","12","Macro Metropolitana Paulista","047","Jundiaí","56503",3556503,"Várzea Paulista","-23.2136","-46.8234","Várzea Paulista",3
+"638","35","São Paulo","SP","09","Marília","038","Marília","56602",3556602,"Vera Cruz","-22.2183","-49.8207",,
+"639","35","São Paulo","SP","07","Campinas","032","Campinas","56701",3556701,"Vinhedo","-23.0302","-46.9833","Vinhedo",5
+"640","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","56800",3556800,"Viradouro","-20.8734","-48.293",,
+"641","35","São Paulo","SP","02","Ribeirão Preto","013","Jaboticabal","56909",3556909,"Vista Alegre do Alto","-21.1692","-48.6284",,
+"642","35","São Paulo","SP","01","São José do Rio Preto","001","Jales","56958",3556958,"Vitória Brasil","-20.1956","-50.4875",,
+"643","35","São Paulo","SP","12","Macro Metropolitana Paulista","046","Sorocaba","57006",3557006,"Votorantim","-23.5446","-47.4388",,
+"644","35","São Paulo","SP","01","São José do Rio Preto","003","Votuporanga","57105",3557105,"Votuporanga","-20.4237","-49.9781",,
+"645","35","São Paulo","SP","01","São José do Rio Preto","004","São José do Rio Preto","57154",3557154,"Zacarias","-21.0506","-50.0552","Zacarias",1

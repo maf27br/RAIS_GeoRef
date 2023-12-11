@@ -1,0 +1,450 @@
+"","CO_MUNICIPIO","NOME_MUNICIPIO","QTD"
+"1",3500105,"Adamantina",14
+"2",3500204,"Adolfo",2
+"3",3500303,"Aguaí",4
+"4",3500402,"Águas da Prata",1
+"5",3500501,"Águas de Lindóia",3
+"6",3500550,"Águas de Santa Bárbara",1
+"7",3500709,"Agudos",10
+"8",3500758,"Alambari",3
+"9",3500808,"Alfredo Marcondes",2
+"10",3501004,"Altinópolis",2
+"11",3501152,"Alumínio",1
+"12",3501301,"Álvares Machado",7
+"13",3501608,"Americana",88
+"14",3501707,"Américo Brasiliense",3
+"15",3501806,"Américo de Campos",2
+"16",3501905,"Amparo",17
+"17",3502002,"Analândia",4
+"18",3502101,"Andradina",5
+"19",3502200,"Angatuba",1
+"20",3502309,"Anhembi",1
+"21",3502507,"Aparecida",2
+"22",3502754,"Araçariguama",1
+"23",3502804,"Araçatuba",70
+"24",3502903,"Araçoiaba da Serra",3
+"25",3503000,"Aramina",1
+"26",3503109,"Arandu",1
+"27",3503208,"Araraquara",44
+"28",3503307,"Araras",42
+"29",3503356,"Arco-Íris",2
+"30",3503406,"Arealva",2
+"31",3503703,"Ariranha",7
+"32",3503802,"Artur Nogueira",6
+"33",3503901,"Arujá",10
+"34",3504008,"Assis",15
+"35",3504107,"Atibaia",37
+"36",3504206,"Auriflama",8
+"37",3504404,"Avanhandava",2
+"38",3504503,"Avaré",16
+"39",3504602,"Bady Bassitt",2
+"40",3504800,"Bálsamo",8
+"41",3505302,"Barra Bonita",7
+"42",3505500,"Barretos",20
+"43",3505609,"Barrinha",5
+"44",3505708,"Barueri",45
+"45",3505807,"Bastos",2
+"46",3505906,"Batatais",21
+"47",3506003,"Bauru",72
+"48",3506102,"Bebedouro",11
+"49",3506300,"Bernardino de Campos",2
+"50",3506359,"Bertioga",8
+"51",3506409,"Bilac",2
+"52",3506508,"Birigui",42
+"53",3506607,"Biritiba Mirim",1
+"54",3506706,"Boa Esperança do Sul",1
+"55",3506904,"Bofete",1
+"56",3507001,"Boituva",17
+"57",3507100,"Bom Jesus dos Perdões",5
+"58",3507308,"Boracéia",1
+"59",3507407,"Borborema",3
+"60",3507506,"Botucatu",22
+"61",3507605,"Bragança Paulista",24
+"62",3507704,"Braúna",2
+"63",3507803,"Brodowski",19
+"64",3507902,"Brotas",3
+"65",3508108,"Buritama",3
+"66",3508207,"Buritizal",3
+"67",3508405,"Cabreúva",7
+"68",3508504,"Caçapava",4
+"69",3508603,"Cachoeira Paulista",2
+"70",3508702,"Caconde",1
+"71",3508801,"Cafelândia",1
+"72",3509007,"Caieiras",14
+"73",3509205,"Cajamar",22
+"74",3509254,"Cajati",1
+"75",3509403,"Cajuru",6
+"76",3509502,"Campinas",184
+"77",3509601,"Campo Limpo Paulista",13
+"78",3509700,"Campos do Jordão",6
+"79",3510005,"Cândido Mota",7
+"80",3510203,"Capão Bonito",7
+"81",3510401,"Capivari",25
+"82",3510500,"Caraguatatuba",7
+"83",3510609,"Carapicuíba",56
+"84",3510708,"Cardoso",3
+"85",3510807,"Casa Branca",2
+"86",3511003,"Castilho",1
+"87",3511102,"Catanduva",33
+"88",3511201,"Catiguá",2
+"89",3511300,"Cedral",10
+"90",3511409,"Cerqueira César",1
+"91",3511508,"Cerquilho",11
+"92",3511607,"Cesário Lange",1
+"93",3511706,"Charqueada",1
+"94",3511904,"Clementina",1
+"95",3512001,"Colina",2
+"96",3512209,"Conchal",17
+"97",3512308,"Conchas",7
+"98",3512407,"Cordeirópolis",5
+"99",3512704,"Corumbataí",2
+"100",3512803,"Cosmópolis",3
+"101",3512902,"Cosmorama",4
+"102",3513009,"Cotia",64
+"103",3513108,"Cravinhos",5
+"104",3513207,"Cristais Paulista",1
+"105",3513405,"Cruzeiro",6
+"106",3513504,"Cubatão",1
+"107",3513603,"Cunha",4
+"108",3513702,"Descalvado",6
+"109",3513801,"Diadema",68
+"110",3513900,"Divinolândia",5
+"111",3514106,"Dois Córregos",19
+"112",3514205,"Dolcinópolis",2
+"113",3514304,"Dourado",16
+"114",3514403,"Dracena",14
+"115",3514502,"Duartina",8
+"116",3514601,"Dumont",3
+"117",3514700,"Echaporã",1
+"118",3514908,"Elias Fausto",5
+"119",3515004,"Embu das Artes",33
+"120",3515103,"Embu-Guaçu",12
+"121",3515186,"Espírito Santo do Pinhal",8
+"122",3515194,"Espírito Santo do Turvo",1
+"123",3515202,"Estrela d'Oeste",3
+"124",3515350,"Euclides da Cunha Paulista",1
+"125",3515400,"Fartura",2
+"126",3515509,"Fernandópolis",18
+"127",3515608,"Fernando Prestes",1
+"128",3515657,"Fernão",1
+"129",3515707,"Ferraz de Vasconcelos",14
+"130",3515905,"Floreal",5
+"131",3516200,"Franca",76
+"132",3516309,"Francisco Morato",5
+"133",3516408,"Franco da Rocha",6
+"134",3516606,"Gália",4
+"135",3516705,"Garça",9
+"136",3516853,"Gavião Peixoto",1
+"137",3516903,"General Salgado",2
+"138",3517406,"Guaíra",4
+"139",3517505,"Guapiaçu",12
+"140",3517703,"Guará",4
+"141",3517802,"Guaraçaí",20
+"142",3517901,"Guaraci",2
+"143",3518107,"Guarantã",3
+"144",3518206,"Guararapes",7
+"145",3518305,"Guararema",10
+"146",3518404,"Guaratinguetá",5
+"147",3518602,"Guariba",3
+"148",3518701,"Guarujá",24
+"149",3518800,"Guarulhos",129
+"150",3519006,"Herculândia",2
+"151",3519055,"Holambra",1
+"152",3519071,"Hortolândia",45
+"153",3519105,"Iacanga",1
+"154",3519303,"Ibaté",5
+"155",3519402,"Ibirá",11
+"156",3519600,"Ibitinga",9
+"157",3519709,"Ibiúna",4
+"158",3519907,"Iepê",1
+"159",3520004,"Igaraçu do Tietê",4
+"160",3520103,"Igarapava",5
+"161",3520301,"Iguape",3
+"162",3520400,"Ilhabela",3
+"163",3520426,"Ilha Comprida",1
+"164",3520442,"Ilha Solteira",4
+"165",3520509,"Indaiatuba",77
+"166",3520707,"Indiaporã",1
+"167",3520806,"Inúbia Paulista",1
+"168",3520905,"Ipaussu",5
+"169",3521002,"Iperó",26
+"170",3521101,"Ipeúna",1
+"171",3521150,"Ipiguá",6
+"172",3521309,"Ipuã",1
+"173",3521408,"Iracemápolis",7
+"174",3521507,"Irapuã",2
+"175",3521705,"Itaberá",3
+"176",3521903,"Itajobi",2
+"177",3522109,"Itanhaém",2
+"178",3522208,"Itapecerica da Serra",23
+"179",3522307,"Itapetininga",12
+"180",3522406,"Itapeva",2
+"181",3522505,"Itapevi",14
+"182",3522604,"Itapira",25
+"183",3522703,"Itápolis",5
+"184",3522802,"Itaporanga",2
+"185",3522901,"Itapuí",11
+"186",3523107,"Itaquaquecetuba",39
+"187",3523206,"Itararé",4
+"188",3523404,"Itatiba",68
+"189",3523503,"Itatinga",4
+"190",3523602,"Itirapina",3
+"191",3523701,"Itirapuã",1
+"192",3523800,"Itobi",2
+"193",3523909,"Itu",47
+"194",3524006,"Itupeva",8
+"195",3524105,"Ituverava",6
+"196",3524303,"Jaboticabal",15
+"197",3524402,"Jacareí",26
+"198",3524501,"Jaci",35
+"199",3524600,"Jacupiranga",1
+"200",3524709,"Jaguariúna",6
+"201",3524808,"Jales",13
+"202",3524907,"Jambeiro",1
+"203",3525003,"Jandira",14
+"204",3525102,"Jardinópolis",22
+"205",3525201,"Jarinu",11
+"206",3525300,"Jaú",28
+"207",3525409,"Jeriquara",1
+"208",3525508,"Joanópolis",2
+"209",3525607,"João Ramalho",1
+"210",3525706,"José Bonifácio",10
+"211",3525904,"Jundiaí",70
+"212",3526001,"Junqueirópolis",5
+"213",3526209,"Juquitiba",2
+"214",3526308,"Lagoinha",1
+"215",3526407,"Laranjal Paulista",6
+"216",3526506,"Lavínia",1
+"217",3526704,"Leme",56
+"218",3526803,"Lençóis Paulista",14
+"219",3526902,"Limeira",49
+"220",3527009,"Lindóia",3
+"221",3527108,"Lins",8
+"222",3527207,"Lorena",3
+"223",3527306,"Louveira",9
+"224",3527405,"Lucélia",5
+"225",3527504,"Lucianópolis",3
+"226",3527603,"Luís Antônio",2
+"227",3527702,"Luiziânia",1
+"228",3528007,"Macatuba",1
+"229",3528106,"Macaubal",2
+"230",3528205,"Macedônia",1
+"231",3528403,"Mairinque",4
+"232",3528502,"Mairiporã",19
+"233",3528601,"Manduri",3
+"234",3528858,"Marapoama",2
+"235",3529005,"Marília",42
+"236",3529203,"Martinópolis",4
+"237",3529302,"Matão",11
+"238",3529401,"Mauá",47
+"239",3529609,"Meridiano",10
+"240",3529807,"Mineiros do Tietê",2
+"241",3529906,"Miracatu",1
+"242",3530003,"Mira Estrela",1
+"243",3530102,"Mirandópolis",4
+"244",3530201,"Mirante do Paranapanema",2
+"245",3530300,"Mirassol",74
+"246",3530508,"Mococa",16
+"247",3530607,"Mogi das Cruzes",34
+"248",3530706,"Mogi Guaçu",32
+"249",3530805,"Mogi Mirim",46
+"250",3530904,"Mombuca",1
+"251",3531209,"Monte Alegre do Sul",1
+"252",3531308,"Monte Alto",19
+"253",3531407,"Monte Aprazível",7
+"254",3531506,"Monte Azul Paulista",8
+"255",3531803,"Monte Mor",7
+"256",3531902,"Morro Agudo",10
+"257",3532009,"Morungaba",2
+"258",3532058,"Motuca",1
+"259",3532108,"Murutinga do Sul",2
+"260",3532405,"Nazaré Paulista",3
+"261",3532504,"Neves Paulista",3
+"262",3532603,"Nhandeara",1
+"263",3532702,"Nipoã",2
+"264",3533007,"Nova Granada",4
+"265",3533254,"Novais",1
+"266",3533403,"Nova Odessa",24
+"267",3533502,"Novo Horizonte",8
+"268",3533601,"Nuporanga",1
+"269",3533809,"Óleo",1
+"270",3533908,"Olímpia",28
+"271",3534104,"Oriente",1
+"272",3534203,"Orindiúva",1
+"273",3534302,"Orlândia",8
+"274",3534401,"Osasco",103
+"275",3534609,"Osvaldo Cruz",13
+"276",3534708,"Ourinhos",18
+"277",3534757,"Ouroeste",1
+"278",3534807,"Ouro Verde",1
+"279",3534906,"Pacaembu",1
+"280",3535002,"Palestina",1
+"281",3535200,"Palmeira d'Oeste",1
+"282",3535309,"Palmital",7
+"283",3535408,"Panorama",1
+"284",3535507,"Paraguaçu Paulista",8
+"285",3535606,"Paraibuna",1
+"286",3535705,"Paraíso",1
+"287",3535804,"Paranapanema",3
+"288",3536000,"Parapuã",1
+"289",3536208,"Pariquera-Açu",1
+"290",3536257,"Parisi",1
+"291",3536307,"Patrocínio Paulista",3
+"292",3536505,"Paulínia",21
+"293",3536604,"Paulo de Faria",1
+"294",3536703,"Pederneiras",10
+"295",3536802,"Pedra Bela",1
+"296",3536901,"Pedranópolis",1
+"297",3537008,"Pedregulho",3
+"298",3537107,"Pedreira",16
+"299",3537206,"Pedro de Toledo",1
+"300",3537305,"Penápolis",18
+"301",3537404,"Pereira Barreto",7
+"302",3537503,"Pereiras",1
+"303",3537602,"Peruíbe",11
+"304",3537800,"Piedade",9
+"305",3537909,"Pilar do Sul",3
+"306",3538006,"Pindamonhangaba",15
+"307",3538105,"Pindorama",3
+"308",3538501,"Piquete",1
+"309",3538600,"Piracaia",3
+"310",3538709,"Piracicaba",88
+"311",3538808,"Piraju",10
+"312",3538907,"Pirajuí",5
+"313",3539004,"Pirangi",2
+"314",3539202,"Pirapozinho",5
+"315",3539301,"Pirassununga",8
+"316",3539400,"Piratininga",4
+"317",3539509,"Pitangueiras",2
+"318",3539806,"Poá",12
+"319",3540002,"Pompéia",3
+"320",3540101,"Pongaí",2
+"321",3540200,"Pontal",3
+"322",3540259,"Pontalinda",1
+"323",3540309,"Pontes Gestal",1
+"324",3540507,"Porangaba",3
+"325",3540606,"Porto Feliz",6
+"326",3540705,"Porto Ferreira",28
+"327",3540754,"Potim",2
+"328",3540804,"Potirendaba",7
+"329",3540903,"Pradópolis",4
+"330",3541000,"Praia Grande",28
+"331",3541307,"Presidente Epitácio",8
+"332",3541406,"Presidente Prudente",63
+"333",3541505,"Presidente Venceslau",9
+"334",3541604,"Promissão",2
+"335",3541703,"Quatá",1
+"336",3542008,"Quintana",2
+"337",3542107,"Rafard",1
+"338",3542206,"Rancharia",5
+"339",3542404,"Regente Feijó",1
+"340",3542503,"Reginópolis",1
+"341",3542602,"Registro",3
+"342",3543006,"Ribeirão Branco",1
+"343",3543204,"Ribeirão do Sul",1
+"344",3543303,"Ribeirão Pires",20
+"345",3543402,"Ribeirão Preto",166
+"346",3543501,"Riversul",1
+"347",3543808,"Rinópolis",2
+"348",3543907,"Rio Claro",45
+"349",3544004,"Rio das Pedras",7
+"350",3544103,"Rio Grande da Serra",7
+"351",3544202,"Riolândia",1
+"352",3544251,"Rosana",3
+"353",3544806,"Sales",4
+"354",3544905,"Sales Oliveira",7
+"355",3545159,"Saltinho",1
+"356",3545209,"Salto",19
+"357",3545308,"Salto de Pirapora",6
+"358",3545605,"Santa Adélia",2
+"359",3545704,"Santa Albertina",1
+"360",3545803,"Santa Bárbara d'Oeste",38
+"361",3546207,"Santa Cruz da Conceição",1
+"362",3546306,"Santa Cruz das Palmeiras",2
+"363",3546405,"Santa Cruz do Rio Pardo",10
+"364",3546603,"Santa Fé do Sul",9
+"365",3546702,"Santa Gertrudes",2
+"366",3546801,"Santa Isabel",10
+"367",3547304,"Santana de Parnaíba",32
+"368",3547502,"Santa Rita do Passa Quatro",3
+"369",3547601,"Santa Rosa de Viterbo",4
+"370",3547700,"Santo Anastácio",4
+"371",3547809,"Santo André",134
+"372",3547908,"Santo Antônio da Alegria",3
+"373",3548005,"Santo Antônio de Posse",4
+"374",3548104,"Santo Antônio do Jardim",1
+"375",3548203,"Santo Antônio do Pinhal",6
+"376",3548500,"Santos",64
+"377",3548609,"São Bento do Sapucaí",3
+"378",3548708,"São Bernardo do Campo",141
+"379",3548807,"São Caetano do Sul",37
+"380",3548906,"São Carlos",63
+"381",3549102,"São João da Boa Vista",22
+"382",3549409,"São Joaquim da Barra",5
+"383",3549706,"São José do Rio Pardo",21
+"384",3549805,"São José do Rio Preto",197
+"385",3549904,"São José dos Campos",104
+"386",3549953,"São Lourenço da Serra",2
+"387",3550001,"São Luiz do Paraitinga",2
+"388",3550100,"São Manuel",7
+"389",3550209,"São Miguel Arcanjo",1
+"390",3550308,"São Paulo",1936
+"391",3550407,"São Pedro",4
+"392",3550605,"São Roque",16
+"393",3550704,"São Sebastião",5
+"394",3550902,"São Simão",4
+"395",3551009,"São Vicente",16
+"396",3551108,"Sarapuí",1
+"397",3551306,"Sebastianópolis do Sul",3
+"398",3551405,"Serra Azul",1
+"399",3551504,"Serrana",3
+"400",3551603,"Serra Negra",4
+"401",3551702,"Sertãozinho",20
+"402",3551801,"Sete Barras",2
+"403",3551900,"Severínia",1
+"404",3552106,"Socorro",8
+"405",3552205,"Sorocaba",93
+"406",3552403,"Sumaré",45
+"407",3552502,"Suzano",34
+"408",3552551,"Suzanápolis",1
+"409",3552601,"Tabapuã",14
+"410",3552700,"Tabatinga",3
+"411",3552809,"Taboão da Serra",46
+"412",3553005,"Taguaí",1
+"413",3553203,"Taiúva",1
+"414",3553302,"Tambaú",4
+"415",3553401,"Tanabi",12
+"416",3553708,"Taquaritinga",8
+"417",3553807,"Taquarituba",2
+"418",3553856,"Taquarivaí",1
+"419",3553906,"Tarabai",3
+"420",3554003,"Tatuí",9
+"421",3554102,"Taubaté",32
+"422",3554300,"Teodoro Sampaio",1
+"423",3554508,"Tietê",18
+"424",3554706,"Torrinha",3
+"425",3554755,"Trabiju",1
+"426",3554805,"Tremembé",5
+"427",3554953,"Tuiuti",1
+"428",3555000,"Tupã",13
+"429",3555109,"Tupi Paulista",2
+"430",3555356,"Ubarana",1
+"431",3555406,"Ubatuba",10
+"432",3555604,"Uchoa",1
+"433",3555802,"Urânia",2
+"434",3556008,"Urupês",3
+"435",3556107,"Valentim Gentil",69
+"436",3556206,"Valinhos",55
+"437",3556305,"Valparaíso",2
+"438",3556404,"Vargem Grande do Sul",11
+"439",3556453,"Vargem Grande Paulista",24
+"440",3556503,"Várzea Paulista",33
+"441",3556602,"Vera Cruz",1
+"442",3556701,"Vinhedo",16
+"443",3556800,"Viradouro",8
+"444",3556909,"Vista Alegre do Alto",1
+"445",3557006,"Votorantim",15
+"446",3557105,"Votuporanga",93
+"447",3557154,"Zacarias",1
+"448",3557204,"Chavantes",3
+"449",3557303,"Estiva Gerbi",3
